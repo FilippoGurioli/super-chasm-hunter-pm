@@ -1,3 +1,7 @@
+---
+title: Building RBS
+---
+
 ```mermaid
 graph LR
     0[Super Chasm Hunter Building Requirements]

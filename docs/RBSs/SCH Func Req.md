@@ -1,3 +1,7 @@
+---
+title: Functional RBS
+---
+
 ```mermaid
 graph LR
     0[Super Chasm Hunter Functional Requirements]

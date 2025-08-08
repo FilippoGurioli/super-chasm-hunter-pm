@@ -1,3 +1,7 @@
+---
+title: Rogue-like RBS
+---
+
 ```mermaid
 graph LR
     0[Super Chasm Hunter Rogue-Like Requirements]

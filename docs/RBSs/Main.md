@@ -1,3 +1,7 @@
+---
+title: Main
+---
+
 ```mermaid
 graph LR
     0[Super Chasm Hunter]

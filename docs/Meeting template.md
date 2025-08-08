@@ -1,3 +1,7 @@
+---
+title: Meeting template
+---
+
 # Meeting <Data> | <Durata>
 
 ## Scopo

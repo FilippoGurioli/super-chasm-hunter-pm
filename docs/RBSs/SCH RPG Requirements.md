@@ -1,3 +1,6 @@
+---
+title: RPG RBS
+---
 
 ```mermaid
 graph LR
