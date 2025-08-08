@@ -3,5 +3,5 @@
   <circle cx="60" cy="60" r="55" stroke="#4cae4f" stroke-width="5" fill="white"/>
 
   <!-- Text -->
-  <text x="60" y="75" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#4cae4f">SCH</text>
+  <text x="60" y="75" text-anchor="middle" font-family="Roboto, sans-serif" font-size="40" font-weight="bold" fill="#4cae4f">SCH</text>
 </svg>
