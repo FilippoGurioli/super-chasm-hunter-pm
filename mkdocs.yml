@@ -9,6 +9,7 @@ theme:
   plugins:
     - search
     - search.suggest
+    - mermaid2
   repo_url: https://github.com/FilippoGurioli/super-chasm-hunter-pm
   icon:
     repo: fontawesome/brands/github
