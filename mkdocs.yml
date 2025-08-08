@@ -1,6 +1,8 @@
 site_name: Super Chasm Hunter
 theme:
   name: material
+  features:
+    - toggle
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
