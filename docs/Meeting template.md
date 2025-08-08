@@ -2,7 +2,7 @@
 title: Meeting template
 ---
 
-# Meeting <Data> | <Durata>
+# Meeting &lt;Data&gt; | &lt;Durata&gt;
 
 ## Scopo
 
@@ -24,6 +24,6 @@ title: Meeting template
 
 ## Prossimo meeting
 
-<Data> | <Durata>
+&lt;Data&gt; | &lt;Durata&gt;
 
 ## Partecipanti prossimo meeting
