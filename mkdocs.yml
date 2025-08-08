@@ -1,4 +1,10 @@
 site_name: Super Chasm Hunter
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 theme:
   name: material
   logo: assets/logo.svg
@@ -6,12 +12,6 @@ theme:
   language: it
   features:
     - navigation.top
-  markdown_extensions:
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
   plugins:
     - search
     - search.suggest
