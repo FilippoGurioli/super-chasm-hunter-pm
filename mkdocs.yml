@@ -1,8 +1,9 @@
 site_name: Super Chasm Hunter
 theme:
   name: material
-  features:
-    - toggle
+  toggle:
+    icon: material/weather-night
+    name: Switch to dark mode
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
