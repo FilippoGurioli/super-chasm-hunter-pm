@@ -6,6 +6,26 @@ theme:
   language: it
   features:
     - navigation.top
+  # test
+  markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.keys
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  # test
   plugins:
     - search
     - search.suggest
