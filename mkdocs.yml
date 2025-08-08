@@ -1,7 +1,6 @@
 site_name: Super Chasm Hunter
 theme:
   name: material
-  locale: it
   lang: it
   include_sidebar: true
   theme: readthedocs
