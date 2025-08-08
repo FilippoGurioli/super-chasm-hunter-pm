@@ -1,53 +1,6 @@
-# Questa è la prima pagina di SCH PM
+# Super Chasm Hunter
 
-Questo è una descrizione
+Questa è la documentazione di Project Management relativa al progetto **Super Chasm Hunter**.
 
-## Sezione 1
-
-testo
-
-## Sezione 2
-
-[link](./assets/logo.svg)
-
-### test table
-
-|**test**|
-|--------|
-|this is a test|
-
-test
-
-molto
-
-lungo
-
-per vedere
-
-come
-
-funziona
-
-lo
-
-scrolling
-
-dell'interfaccia
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
+Studente: Filippo Gurioli  
+Email: filippo.gurioli@studio.unibo.it
