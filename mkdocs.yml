@@ -1,16 +1,7 @@
 site_name: Super Chasm Hunter
 theme:
   name: material
-  toggle:
-    icon: material/weather-night
-    name: Switch to dark mode
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: indigo
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: indigo
-      accent: indigo
+  locale: it
+  lang: it
+  include_sidebar: true
 
