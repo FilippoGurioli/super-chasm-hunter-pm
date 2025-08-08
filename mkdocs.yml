@@ -4,6 +4,14 @@ theme:
   logo: assets/logo.svg
   favicon: assets/logo.svg
   language: it
+  features:
+    - navigation.top
+  plugins:
+    - search
+    - search.suggest
+  repo_url: https://github.com/FilippoGurioli/super-chasm-hunter-pm
+  icon:
+    repo: fontawesome/brands/github
   palette:
     - scheme: default
       media: "(prefers-color-scheme: light)"
