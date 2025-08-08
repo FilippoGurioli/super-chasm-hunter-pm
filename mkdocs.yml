@@ -2,6 +2,7 @@ site_name: Super Chasm Hunter
 theme:
   name: material
   logo: assets/logo.svg
+  favicon: assets/logo.svg
   language: it
   palette:
     - scheme: default
