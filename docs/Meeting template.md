@@ -52,7 +52,7 @@ title: Meeting template
 
 # 📝 Meeting <Data> · <Durata>
 
-<div class="grid" markdown>
+<div class="grid grid-single" markdown>
 
 :material-target: **Scopo**  
 { .card }
@@ -70,7 +70,7 @@ title: Meeting template
 
 ---
 
-<div class="grid" markdown>
+<div class="grid grid-single" markdown>
 
 :material-note-text: **Note**  
 { .card }
@@ -85,7 +85,7 @@ title: Meeting template
 
 ---
 
-<div class="grid" markdown>
+<div class="grid grid-single" markdown>
 
 :material-calendar: **Prossimo meeting**  
 <Data> · <Durata>  
