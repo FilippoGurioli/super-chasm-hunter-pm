@@ -12,6 +12,7 @@ theme:
   language: it
   features:
     - navigation.top
+    - navigation.footer
   plugins:
     - search
     - search.suggest
@@ -34,4 +35,6 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+extra:
+  generator: false
 
