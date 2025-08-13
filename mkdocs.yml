@@ -45,4 +45,6 @@ theme:
         name: Switch to light mode
 extra:
   generator: false
+extra_css:
+  - stylesheets/extra.css
 
