@@ -2,3 +2,24 @@
   display: grid !important;
   grid-template-columns: 1fr !important;
 }
+
+
+/* Container flessibile */
+section[style*="display: flex"] {
+  gap: 1rem;
+}
+
+/* Card con testo verticale a sinistra */
+.vertical-card .card {
+  writing-mode: vertical-rl;
+  text-orientation: sideways;
+  transform-origin: top left;
+  /* Regola dimensioni se necessario */
+  width: 2.5em;
+  padding: 0.5em;
+}
+
+/* Callout a destra come card normale */
+.right-callout .card {
+  /* Mantieni il tuo stile desiderato */
+}

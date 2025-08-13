@@ -92,3 +92,22 @@ title: Meeting template
 { .card }
 
 </div>
+
+
+
+
+
+<section markdown="1" style="display: flex; align-items: center;">
+
+<div class="vertical-card" markdown="1">
+__Scopo__
+{ .card }
+</div>
+
+<div class="right-callout" markdown="1">
+> **Note**  
+{ .card }
+</div>
+
+</section>
+
