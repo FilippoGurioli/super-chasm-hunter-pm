@@ -50,7 +50,7 @@ title: Meeting template
 
 
 
-# 📝 Meeting <Data> · <Durata>
+# 📝 Meeting &lt;Data&gt; · &lt;Durata&gt;
 
 <div class="grid grid-single" markdown>
 
@@ -88,7 +88,7 @@ title: Meeting template
 <div class="grid grid-single" markdown>
 
 :material-calendar: **Prossimo meeting**  
-<Data> · <Durata>  
+&lt;Data&gt; · &lt;Durata&gt; 
 { .card }
 
 :material-account-group: **Partecipanti prossimo meeting**  
