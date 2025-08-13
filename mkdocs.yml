@@ -30,10 +30,10 @@ theme:
 
     - scheme: slate
       media: "(prefers-color-scheme: dark)"
-      primary: green
-      accent: green
+      primary: light green
+      accent: light green
       toggle:
-        icon: material/weather-night
+        icon: material/brightness-2
         name: Switch to light mode
 extra:
   generator: false
