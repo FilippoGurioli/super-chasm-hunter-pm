@@ -45,3 +45,53 @@ title: Meeting template
 &lt;Data&gt; | &lt;Durata&gt;
 
 ## Partecipanti prossimo meeting
+
+
+
+
+
+# 📝 Meeting <Data> · <Durata>
+
+<div class="grid" markdown>
+
+:material-target: **Scopo**  
+{ .card }
+
+:material-format-list-numbered: **Scaletta**  
+{ .card }
+
+:material-account-group: **Partecipanti**  
+{ .card }
+
+:material-paperclip: **Documentazione allegata**  
+{ .card }
+
+</div>
+
+---
+
+<div class="grid" markdown>
+
+:material-note-text: **Note**  
+{ .card }
+
+:material-check: **Decisioni prese**  
+{ .card }
+
+:material-rocket-launch: **Azioni da fare**  
+{ .card }
+
+</div>
+
+---
+
+<div class="grid" markdown>
+
+:material-calendar: **Prossimo meeting**  
+<Data> · <Durata>  
+{ .card }
+
+:material-account-group: **Partecipanti prossimo meeting**  
+{ .card }
+
+</div>
