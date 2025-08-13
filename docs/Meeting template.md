@@ -72,14 +72,11 @@ title: Meeting template
 
 <div class="grid grid-single" markdown>
 
-:material-note-text: **Note**  
-{ .card }
+> :material-note-text: **Note**  
 
-:material-check: **Decisioni prese**  
-{ .card }
+> :material-check: **Decisioni prese**  
 
-:material-rocket-launch: **Azioni da fare**  
-{ .card }
+> :material-rocket-launch: **Azioni da fare**  
 
 </div>
 
