@@ -17,6 +17,9 @@ title: Meeting template
 
 </div>
 
+!!! note "🗒️ Note"
+    Appunti o osservazioni rilevanti.
+
 # Meeting &lt;Data&gt; | &lt;Durata&gt;
 
 ## Scopo
