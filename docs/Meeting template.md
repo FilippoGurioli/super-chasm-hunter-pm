@@ -52,6 +52,7 @@ title: Meeting template
 
 # 📝 Meeting <Data> · <Durata>
 
+<div class="grid" markdown>
 
 :material-target: **Scopo**  
 { .card }
@@ -65,9 +66,11 @@ title: Meeting template
 :material-paperclip: **Documentazione allegata**  
 { .card }
 
+</div>
 
 ---
 
+<div class="grid" markdown>
 
 :material-note-text: **Note**  
 { .card }
@@ -78,10 +81,11 @@ title: Meeting template
 :material-rocket-launch: **Azioni da fare**  
 { .card }
 
-
+</div>
 
 ---
 
+<div class="grid" markdown>
 
 :material-calendar: **Prossimo meeting**  
 <Data> · <Durata>  
@@ -90,3 +94,4 @@ title: Meeting template
 :material-account-group: **Partecipanti prossimo meeting**  
 { .card }
 
+</div>
