@@ -100,7 +100,7 @@ title: Meeting template
 <section markdown="1" style="display: flex; align-items: center;">
 
 <div class="vertical-card" markdown="1">
-__Scopo__
+__Pre Meeting__
 { .card }
 </div>
 
@@ -108,6 +108,15 @@ __Scopo__
 > **Note**  
 { .card }
 </div>
+<div class="right-callout" markdown="1">
+> **Note**  
+{ .card }
+</div>
+<div class="right-callout" markdown="1">
+> **Note**  
+{ .card }
+</div>
+
 
 </section>
 
