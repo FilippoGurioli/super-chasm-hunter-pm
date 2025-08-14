@@ -32,7 +32,7 @@ title: Meeting template
 
 <div class="grid grid-single" markdown>
 
-> ###:material-calendar: **Prossimo meeting**  *&lt;Data&gt; | &lt;Durata&gt;*
+> ###:material-calendar: **Prossimo meeting**  &lt;Data&gt; | &lt;Durata&gt;
 
 > ###:material-account-group: **Partecipanti prossimo meeting**  
 
