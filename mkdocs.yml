@@ -38,8 +38,8 @@ theme:
 
     - scheme: slate
       media: "(prefers-color-scheme: dark)"
-      primary: light green
-      accent: light green
+      primary: green
+      accent: green
       toggle:
         icon: material/brightness-2
         name: Switch to light mode
