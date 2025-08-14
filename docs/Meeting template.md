@@ -1,12 +1,12 @@
 ---
-title: 📝 Meeting template
+title: Meeting template
 ---
 
 ## Meeting &lt;Data&gt; | &lt;Durata&gt;
 
 <div class="grid grid-single" markdown>
 
-> :material-target: **Scopo**  
+> ###:material-target: **Scopo**  
 
 > :material-format-list-numbered: **Scaletta**  
 
