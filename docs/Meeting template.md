@@ -8,23 +8,11 @@ title: Meeting template
 
 > ###:material-target: **Scopo**  
 
-> :material-format-list-numbered: **Scaletta**  
+> ###:material-format-list-numbered: **Scaletta**  
 
-> :material-account-group: **Partecipanti**  
+> ###:material-account-group: **Partecipanti**  
 
-> :material-paperclip: **Documentazione allegata**  
-
-</div>
-
----
-
-<div class="grid grid-single" markdown>
-
-> :material-note-text: **Note**  
-
-> :material-check: **Decisioni prese**  
-
-> :material-rocket-launch: **Azioni da fare**  
+> ###:material-paperclip: **Documentazione allegata**  
 
 </div>
 
@@ -32,8 +20,20 @@ title: Meeting template
 
 <div class="grid grid-single" markdown>
 
-> :material-calendar: **Prossimo meeting**  &lt;Data&gt; | &lt;Durata&gt; 
+> ###:material-note-text: **Note**  
 
-> :material-account-group: **Partecipanti prossimo meeting**  
+> ###:material-check: **Decisioni prese**  
+
+> ###:material-rocket-launch: **Azioni da fare**  
+
+</div>
+
+---
+
+<div class="grid grid-single" markdown>
+
+> ###:material-calendar: **Prossimo meeting**  *&lt;Data&gt; | &lt;Durata&gt;*
+
+> ###:material-account-group: **Partecipanti prossimo meeting**  
 
 </div>
