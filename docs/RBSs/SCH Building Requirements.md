@@ -3,6 +3,7 @@ title: Building RBS
 ---
 
 ```mermaid
+%%{init: {'flowchart' : {'curve' : 'linear'}}}%%
 graph LR
     0[Super Chasm Hunter Building Requirements]
     1
