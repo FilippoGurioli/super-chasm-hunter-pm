@@ -12,6 +12,8 @@ Scoping meetings:
 - [Meeting 2](../Meetings/Meeting%202%20-%2027-06-25.md)
 - [Meeting 3](../Meetings/Meeting%203%20-%2003-07-25.md)
 
+---
+
 ## Problema/Opportunità
 
 si vuole creare un videogioco di tipo rogue like, rpg e building che permetta al team di accumulare esperienza nel settore, motivo per il quale tutto il prodotto si concentra sull'essere semplice e veloce nella produzione.
