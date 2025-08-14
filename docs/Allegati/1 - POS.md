@@ -63,7 +63,7 @@ Creare un videogioco con caratteristiche rogue like, rpg e building che permetta
 
 ## Rischi
 
-L'analisi dei rischi si può è stata eseguita in [questo file](./Analisi%20dei%20rischi.md).
+L'analisi dei rischi si può è stata eseguita in [questo file](./2%20-%20Analisi%20dei%20rischi.md).
 
 ## Ostacoli
 
