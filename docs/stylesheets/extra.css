@@ -2,3 +2,15 @@
   display: grid !important;
   grid-template-columns: 1fr !important;
 }
+
+/* Arrotonda le estremità delle linee Mermaid */
+.mermaid svg path,
+.mermaid svg line {
+    stroke-linecap: round;
+}
+
+/* Opzionale: arrotonda anche le curve */
+.mermaid svg path {
+    stroke-linejoin: round;
+}
+
