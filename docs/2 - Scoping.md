@@ -1,3 +1,5 @@
 ---
 title: Scoping
 ---
+
+# Scoping
