@@ -1,8 +1,8 @@
 ---
-title: Meeting template
+title: 📝 Meeting template
 ---
 
-## 📝 Meeting &lt;Data&gt; | &lt;Durata&gt;
+## Meeting &lt;Data&gt; | &lt;Durata&gt;
 
 <div class="grid grid-single" markdown>
 
