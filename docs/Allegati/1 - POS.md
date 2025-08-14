@@ -73,21 +73,4 @@ L'analisi dei rischi si può è stata eseguita in [questo file](./2%20-%20Analis
 
 ## Appendici
 
-Durante gli scoping meeting è stata condotta un'analisi finanziaria a sostegno del progetto insieme allo studio di fattibilità riportate di seguito.
-
-### Analisi finanziaria
-
-#### Business Model
-
-Il deliverable sarà pubblicato sulla piattaforma [Steam](https://store.steampowered.com/?l=italian). Questa permette di pubblicizzare e far scaricare il prodotto ai videogiocatori interessati facendogli pagare un prezzo prestabilito. Di questa cifra, Steam trattiene il 30% e il restante viene destinato all'azienda produttrice.
-
-- Prezzo di lancio: 8.99€
-- possibilità di sconti periodici tramite le promozioni stagionali
-
-#### Studio di fattibilità
-
-- I costi fissi monetari derivanti dal progetto sono, fino all'apertura della partita IVA, pari a zero.
-- Dei costi possibili possono derivare dall'acquisto di strumenti sviluppati da terzi per velocizzare la produzione software. Questi non dovranno essere superiori a 500 euro.
-- Altri costi quali (ad esempio) consumo di elettricità non vengono riportati in questa sezione perchè non rilevanti.
-
-Date quete premesse si ritiene il progetto *fattibile* per quanto riguarda il puro aspetto monetario. Bisogna comunque ricordare che Steam obbliga ad avere una partita IVA al momento della pubblicazione del prodotto, di conseguenza, sarà necessario nel prossimo progetto tenere conto anche dei costi fissi derivanti dall'apertura della p.IVA.
+Durante gli scoping meeting è stata condotta un'analisi finanziaria a sostegno del progetto insieme allo studio di fattibilità. Esse possono essere reperite [qui](./3%20-%20Analisi%20Finanziaria.md).
