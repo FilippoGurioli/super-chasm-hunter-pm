@@ -11,7 +11,7 @@ graph LR
     1.2
 
     2
-    2.1[SCH Func Req]
+    2.1[Requisiti Funzionali SCH]
     
     3
     3.1
@@ -66,5 +66,6 @@ graph LR
     %% class 4.3.2,4.3.2.1,4.3.2.2,4.3.3 verde;
     %% class 1,4,1.1,1.2,3.3,4.1.1,4.3,4.3.1, giallo;
     %% class 2.1 blu;
+    click 2.1 "./SCH%20Func%20Req.md" "Requisiti funzionali SCH"
     %% class 3 rosso;
 ```
