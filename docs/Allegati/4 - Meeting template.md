@@ -2,38 +2,24 @@
 title: Meeting template
 ---
 
-## Meeting &lt;Data&gt; | &lt;Durata&gt;
+# Meeting &lt;Data&gt; | &lt;Durata&gt;
 
-<div class="grid grid-single" markdown>
+## :material-target: **Scopo**
 
-> ###:material-target: **Scopo**  
+## :material-format-list-numbered: **Scaletta**  
 
-> ###:material-format-list-numbered: **Scaletta**  
+## :material-account-group: **Partecipanti**  
 
-> ###:material-account-group: **Partecipanti**  
+## :material-paperclip: **Documentazione allegata**  
 
-> ###:material-paperclip: **Documentazione allegata**  
+## :material-note-text: **Note**  
 
-</div>
+## :material-check: **Decisioni prese**  
 
----
+## :material-rocket-launch: **Azioni da fare**  
 
-<div class="grid grid-single" markdown>
+## :material-calendar: **Prossimo meeting**
 
-> ###:material-note-text: **Note**  
+&lt;Data&gt; | &lt;Durata&gt;
 
-> ###:material-check: **Decisioni prese**  
-
-> ###:material-rocket-launch: **Azioni da fare**  
-
-</div>
-
----
-
-<div class="grid grid-single" markdown>
-
-> ###:material-calendar: **Prossimo meeting**  &lt;Data&gt; | &lt;Durata&gt;
-
-> ###:material-account-group: **Partecipanti prossimo meeting**  
-
-</div>
+## :material-account-group: **Partecipanti prossimo meeting**  
