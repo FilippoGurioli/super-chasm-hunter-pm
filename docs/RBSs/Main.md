@@ -3,6 +3,7 @@ title: Main
 ---
 
 ```mermaid
+%%{init: { 'flowchart': {"curve": "monotoneX"}} }%%
 graph LR
     0[Super Chasm Hunter]
     1

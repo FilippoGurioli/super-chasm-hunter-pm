@@ -3,6 +3,7 @@ title: Functional RBS
 ---
 
 ```mermaid
+%%{init: { 'flowchart': {"curve": "monotoneX"}} }%%
 graph LR
     0[Super Chasm Hunter Functional Requirements]
     1

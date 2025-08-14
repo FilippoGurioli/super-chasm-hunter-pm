@@ -3,6 +3,7 @@ title: RPG RBS
 ---
 
 ```mermaid
+%%{init: { 'flowchart': {"curve": "monotoneX"}} }%%
 graph LR
 0[Super Chasm Hunter RPG Requirements]
 0 --> 1
