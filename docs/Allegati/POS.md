@@ -8,9 +8,9 @@ In questo POS viene riassunto quanto detto negli scoping meetings.
 
 Scoping meetings:
 
-- [Meeting 1](../Meetings/Meeting%201%20-%2026-06-25.md)
-- [Meeting 2](../Meetings/Meeting%202%20-%2027-06-25.md)
-- [Meeting 3](../Meetings/Meeting%203%20-%2003-07-25.md)
+- [Meeting 1](./Meetings/Meeting%201%20-%2026-06-25.md)
+- [Meeting 2](./Meetings/Meeting%202%20-%2027-06-25.md)
+- [Meeting 3](./Meetings/Meeting%203%20-%2003-07-25.md)
 
 ---
 
