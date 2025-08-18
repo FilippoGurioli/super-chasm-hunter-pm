@@ -21,11 +21,18 @@ Il foglio di calcolo evidenzia come la cifra di 8,99€ permetta di coprire i co
 Si è creato anche un grafico per visualizzare il rapporto tra le copie vendute e il prezzo di vendita. Il grafico è stato popolato con il numero di copie che permettono di raggiungere la soglia di 4100€ (ovvero 3600€ di costi fissi più 500€ di costi variabili).
 
 ```mermaid
+---
+config:
+    themeVariables:
+        xyChart:
+            backgroundColor: "#1E2129"
+---
 xychart-beta
     title "Analisi delle vendite in base al prezzo"
     x-axis "Prezzo unitario (in €)" [0.99,1.99,2.99,3.99,4.99,5.99,6.99,7.99,8.99,9.99,10.99,11.99,12.99,13.99,14.99]
     y-axis "Copie vendute" 100 --> 4000
     line [4142,2061,1372,1028,822,685,587,514,457,411,374,342,316,294,274,257,242,228]
+    line [1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500]
 ```
 
 ## Studio di fattibilità
