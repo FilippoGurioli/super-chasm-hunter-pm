@@ -34,6 +34,8 @@ config:
     themeVariables:
         xyChart:
             backgroundColor: "#1E2129"
+            xAxisLineColor: "#B4B7C0"
+            yAxisLineColor: "#B4B7C0"
 ---
 xychart-beta
     title "Analisi delle vendite in base al prezzo"
