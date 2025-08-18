@@ -29,14 +29,6 @@ Tuttavia, il team ha scelto un prezzo di **8,99€**, che rimane comunque nella 
 - non compromette l’accessibilità del titolo ai potenziali acquirenti.  
 
 ```mermaid
----
-config:
-    themeVariables:
-        xyChart:
-            backgroundColor: "#1E2129"
-            xAxisLineColor: "#B4B7C0"
-            yAxisLineColor: "#B4B7C0"
----
 xychart-beta
     title "Analisi delle vendite in base al prezzo"
     x-axis "Prezzo unitario (in €)" [0.99,1.99,2.99,3.99,4.99,5.99,6.99,7.99,8.99,9.99,10.99,11.99,12.99,13.99,14.99]
