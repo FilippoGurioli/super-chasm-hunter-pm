@@ -53,7 +53,7 @@ N.B: si assume che, con la remunerazione minima sostenibile, ogni membro del tea
 
 ## Programma
 
-Questo progetto fa parte di una visione a lungo periodo dell'azienda. Il programma dell'azienda ha come unico obiettivo rendere una passione dei fondatori un'attività professionale. In questo programma, il primo progetto, ovvero SCH (Super Chasm Hunter), non deve essere necessariamente redditizio. Esso deve fungere da **punto di partenza** per futuri sviluppi e opportunità. Questo è il motivo per il quale si mira alla semplicità piuttosto che al guadagno. Con una visione di questo genere, questo progetto è solo il primo passo verso il raggiungimento di uno scopo più ampio.
+Questo progetto fa parte di una visione a lungo periodo dell'azienda. Il programma dell'azienda ha come unico obiettivo: rendere una passione dei fondatori un'attività professionale. In questo programma, il primo progetto, ovvero SCH (Super Chasm Hunter), non deve essere necessariamente redditizio. Esso deve fungere da **punto di partenza** per futuri sviluppi e opportunità. Questo è il motivo per il quale si mira alla semplicità piuttosto che al guadagno. Il programma si concretizza nello standardizzare processi aziendali di alta qualità, ufficializzare il **modus operandi** aziendale in modo da strutturare l'azienda a scalare e affrontare sfide future.
 
 ## Scoping
 
