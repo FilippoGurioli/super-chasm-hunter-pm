@@ -51,6 +51,10 @@ Nelle condizioni migliori Super Chasm Hunter dovrà avere una durata di gioco in
 
 N.B: si assume che, con la remunerazione minima sostenibile, ogni membro del team possa sostituire il proprio lavoro attuale con l'adesione completa a TGLE.
 
+## Programma
+
+Questo progetto fa parte di una visione a lungo periodo dell'azienda. Il programma dell'azienda ha come unico obiettivo rendere una passione dei fondatori un'attività professionale. In questo programma, il primo progetto, ovvero SCH (Super Chasm Hunter), non deve essere necessariamente redditizio. Esso deve fungere da **punto di partenza** per futuri sviluppi e opportunità. Questo è il motivo per il quale si mira alla semplicità piuttosto che al guadagno. Con una visione di questo genere, questo progetto è solo il primo passo verso il raggiungimento di uno scopo più ampio.
+
 ## Scoping
 
 Una volta definito il contesto del progetto, è fondamentale stabilire i confini e le limitazioni del lavoro da svolgere. Questo processo di scoping aiuterà a garantire che il team rimanga concentrato sugli obiettivi principali e non si lasci distrarre da richieste o funzionalità non essenziali.
