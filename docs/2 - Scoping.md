@@ -44,6 +44,8 @@ Si lascia di seguito l'elenco degli scoping meetings:
 Gli artefatti prodotti sono i seguenti:
 
 - [POS](./Allegati/1%20-%20POS.md)
-- [RBS](./Allegati/RBSs/1%20-%20Main.md)
+- [RBS](./Allegati/RBSs/1%20-%20Main.md)\*
 - [Analisi dei rischi](./Allegati/2%20-%20Analisi%20dei%20rischi.md)
 - [Analisi finanziaria](./Allegati/3%20-%20Analisi%20Finanziaria.md)
+
+\*Si è deciso di suddividere l'RBS in sottoalberi al fine di migliorare la leggibilità dell'albero.
