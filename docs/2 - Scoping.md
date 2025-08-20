@@ -47,5 +47,12 @@ Gli artefatti prodotti sono i seguenti:
 - [RBS](./Allegati/RBSs/1%20-%20Main.md)\*
 - [Analisi dei rischi](./Allegati/2%20-%20Analisi%20dei%20rischi.md)
 - [Analisi finanziaria](./Allegati/3%20-%20Analisi%20Finanziaria.md)
+- [Analisi SWOT](./Allegati/5%20-%20Analisi%20SWOT.md)
 
 \*Si è deciso di suddividere l'RBS in sottoalberi al fine di migliorare la leggibilità dell'albero.
+
+## Space allocation
+
+Gli spazi utilizzati dal team saranno pressochè tutti virtuali. I meeting si terranno online tramite l'utilizzo di piattaforme di videoconferenza come Zoom o Discord. Verranno anche utilizzati strumenti digitali utili alla collaborazione e al brainstorming come draw.io o canva. Per lo sviluppo individuale ogni componente sfrutterà il proprio personal computer. Si prevede anche la possibilità di meeting eccezionali in cui sarà necessaria la presenza fisica degli individui, in questi casi verranno prenotate apposite stanze in luoghi di studio adibiti con tutto il necessario per effettuare il meeting (lavagna, gessetti, fogli, libri, etc.). 
+
+## Planning
