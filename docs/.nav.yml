@@ -1,7 +1,7 @@
 nav:
   - Home: index.md
   - Prefazione: preface.md
-  - Ambito: scoping.md
+  - Scoping: scoping.md
   - Pianificazione: planning.md
   - Lancio: launching.md
   - Monitoraggio: monitoring.md
@@ -14,7 +14,7 @@ nav:
       - Meeting 3: appendices/meetings/meeting-3.md
       - Meeting 4: appendices/meetings/meeting-4.md
       - Meeting 5: appendices/meetings/meeting-5.md
-    - Ambito:
+    - Scoping:
       - Project Overview Statement: appendices/scoping/POS.md
       - Analisi dei Rischi: appendices/scoping/risk-analysis.md
       - Analisi Finanziaria: appendices/scoping/financial-analysis.md

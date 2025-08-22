@@ -13,7 +13,6 @@ theme:
     - search.suggest
     - navigation.top
     - navigation.footer
-    - toc.integrate
     - content.code.annotate
 
   palette:
