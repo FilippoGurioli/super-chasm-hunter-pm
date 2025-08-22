@@ -66,6 +66,6 @@ graph LR
     class 4.3.2,4.3.2.1,4.3.2.2,4.3.3 verde;
     class 1,4,1.1,1.2,3.3,4.1.1,4.3,4.3.1, giallo;
     class 2.1 blu;
-    click 2.1 "https://filippogurioli.github.io/super-chasm-hunter-pm/appendices/scoping/RBSs/functional-requirements/" "Requisiti funzionali SCH"
+    click 2.1 "https://filippogurioli.github.io/super-chasm-hunter-pm/appendices/scoping/RBSs/functional-requirements/" "Requisiti funzionali"
     class 3 rosso;
 ```
