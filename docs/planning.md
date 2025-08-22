@@ -111,3 +111,5 @@ Analizzare ogni rischio espresso nella Analisi dei Rischi, analizzare la strateg
 - Detailed Statement of Work
 - Time and Cost Summary
 - Appendices
+
+## Lancio

@@ -77,7 +77,7 @@ Durante gli scoping meeting è stata condotta un'analisi finanziaria a sostegno 
 
 ## Scelta del PMLC
 
-Analizzando RBS e POS il team è giunto alla conclusione che il Project Management Life Cycle che più si adatta a questo progetto è: **Iterativo**
+Analizzando RBS e POS il team è giunto alla conclusione che il Project Management Life Cycle che più si adatta a questo progetto è: **Iterativo**.
 
 La scelta è dovuta ai seguenti fattori:
 

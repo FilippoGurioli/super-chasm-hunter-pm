@@ -26,9 +26,10 @@ title: Analisi SWOT
 - **Attrattiva per nicchie di mercato**: rogue-like + RPG + building può differenziare il prodotto dai competitor.
 
 ## Threats (Minacce)
-- **Rischi tecnici**:
+
+### Rischi tecnici:
   - Rilascio frequente di nuove versioni di Unity (R1) → obsolescenza.
   - Sviluppo di AI NPC o asset complessi può rallentare il progetto (R5, R11).
-- **Rischi esterni**:
+### Rischi esterni:
   - Cambiamenti nelle policy di Steam o trattenuta sui guadagni (R8).
   - Asset acquistati possono diventare deprecati (R9).
