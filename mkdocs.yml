@@ -5,8 +5,8 @@ theme:
   name: material
   favicon: assets/logo.svg
   language: it
+  logo: assets/logo.svg
   icon:
-    logo: assets/logo.svg
     repo: material/github
 
   features:
