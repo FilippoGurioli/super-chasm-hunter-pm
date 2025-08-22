@@ -29,7 +29,7 @@ Ogni meeting ha sempre seguito la stessa struttura e ogni sua parte ha una funzi
 - **Prossimo meeting**: al fine di mantenere una schedule ordinata
 - **Partecipanti prossimo meeting**: elenca i partecipanti previsti per il prossimo meeting.
 
-Si è creato anche un foglio [template](./Allegati/4%20-%20Meeting%20template.md) da copiare per velocizzare il processo di creazione avendo nel contempo la garanzia di adesione alla struttura prefissata.
+Si è creato anche un foglio [template](./Allegati/Meeting%20template.md) da copiare per velocizzare il processo di creazione avendo nel contempo la garanzia di adesione alla struttura prefissata.
 
 ## Scoping meetings
 
@@ -43,11 +43,11 @@ Si lascia di seguito l'elenco degli scoping meetings:
 
 Gli artefatti prodotti sono i seguenti:
 
-- [POS](./Allegati/1%20-%20POS.md)
-- [RBS](./Allegati/RBSs/1%20-%20Main.md)\*
-- [Analisi dei rischi](./Allegati/2%20-%20Analisi%20dei%20rischi.md)
-- [Analisi finanziaria](./Allegati/3%20-%20Analisi%20Finanziaria.md)
-- [Analisi SWOT](./Allegati/5%20-%20Analisi%20SWOT.md)
+- [POS](./Allegati/Scoping/1%20-%20POS.md)
+- [RBS](./Allegati/Scoping/RBSs/1%20-%20Main.md)\*
+- [Analisi dei rischi](./Allegati/Scoping/2%20-%20Analisi%20dei%20rischi.md)
+- [Analisi finanziaria](./Allegati/Scoping/3%20-%20Analisi%20Finanziaria.md)
+- [Analisi SWOT](./Allegati/Scoping/4%20-%20Analisi%20SWOT.md)
 
 \*Si è deciso di suddividere l'RBS in sottoalberi al fine di migliorare la leggibilità dell'albero.
 
@@ -56,3 +56,5 @@ Gli artefatti prodotti sono i seguenti:
 Gli spazi utilizzati dal team saranno pressochè tutti virtuali. I meeting si terranno online tramite l'utilizzo di piattaforme di videoconferenza come Zoom o Discord. Verranno anche utilizzati strumenti digitali utili alla collaborazione e al brainstorming come draw.io o canva. Per lo sviluppo individuale ogni componente sfrutterà il proprio personal computer. Si prevede anche la possibilità di meeting eccezionali in cui sarà necessaria la presenza fisica degli individui, in questi casi verranno prenotate apposite stanze in luoghi di studio adibiti con tutto il necessario per effettuare il meeting (lavagna, gessetti, fogli, libri, etc.). 
 
 ## Planning
+
+Una volta finito lo scoping il POS è stato sottoposto [all'approvazione](./Allegati/Meetings/Meeting%204%20-%2017-07-25.md) del team. Alla sua approvazione, il progetto si è mosso nella sua seconda fase, la pianificazione. La pianificazione deve concretizzare in azioni quanto fin'ora espresso verbalmente.

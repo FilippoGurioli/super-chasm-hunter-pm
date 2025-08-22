@@ -16,15 +16,29 @@ I principali *deliverable* di questa fase includono:
 - **Risk Management Plan**: identifica, analizza e pianifica le risposte ai rischi;
 - **Project Proposal**: documento di sintesi che definisce obiettivi, risorse e tempi di realizzazione.
 
-La documentazione verrà elaborata attraverso *Joint Project Planning Sessions* tra i membri del team.
+La documentazione è elaborata attraverso *Joint Project Planning Sessions* tra i membri del team.
 
 - [Meeting 5](./Allegati/Meetings/Meeting%205%20-%2017-07-25.md)
+
+## Iterazioni
+
+Si prevedono 5 iterazioni, 1 per ogni macro genere che il prodotto deve avere (RPG, rogue-like e building), una di rifinitura e una finale di marketing e pubblicazione. È obbligatorio specificare che le operazioni di marketing verranno eseguite durante tutta la fase di sviluppo al fine di costruire una community e mantenerla viva. Con l'ultima iterazione si intende il completamento delle attività di marketing e la preparazione per il lancio del prodotto.
+
+La documentazione successiva è da ritenersi relativa alla prima iterazione, fatta eccezione per il PDS che sarà aggiornato piuttosto che riscritto ex novo ad ogni ciclo.
+
+Ogni iterazione porta anche al raggiungimento di una milestone. Le milestone sono così definite:
+
+- **Milestone 1**: Completamento delle feature RPG
+- **Milestone 2**: Completamento delle feature rogue-like
+- **Milestone 3**: Completamento delle feature di building
+- **Milestone 4**: Completamento azioni di rifinitura
+- **Milestone 5**: Completamento azioni di marketing, finalizzazione e pubblicazione
 
 ---
 
 ## Project Definition Statement (PDS)
 
-Il **PDS** raccoglie le specifiche di dettaglio necessarie per l'esecuzione del progetto. Durante la fase di *Execution*, il team farà riferimento a questo documento per definire *come* realizzare ciascun requisito.
+Il **PDS** raccoglie le specifiche di dettaglio necessarie per l'esecuzione del progetto. Durante la fase di *Execution*, il team ha fatto riferimento a questo documento per definire *come* realizzare ciascun requisito.
 
 Il PDS è articolato in tre sotto-documenti principali:
 
@@ -37,11 +51,19 @@ Il PDS è articolato in tre sotto-documenti principali:
 - **Technical Design Document (TDD)**  
   Sviluppato dal CTO sulla base di POS, RBS, GDD e Art Bible. Definisce architettura tecnica, tecnologie, testing, pipeline di sviluppo e scelte implementative.
 
-## WBS
+## Work Breakdown Structure (WBS)
 
-- Prioritizzazione dei requirements (MoSCoW)
-- Approccio subteam
-- WBS incompleta per scelta PMLC
+Per redigere la WBS il team ha seguito un approccio strutturato come segue:
+
+1. si formano diversi gruppi all'interno del team, ciascuno responsabile di un sottoinsieme di requisiti (i.e. *subteam approach*).
+2. Ogni team deve analizzare tutti i nodi foglia del sottoalbero del RBS assegnatogli.
+3. Ogni nodo analizzato deve portare a 1 o più task operativi da svolgere.
+
+Una volta fatto ciò, il team si raduna per stabilire un ordine di priorità di ogni task seguendo la filosofia *MoSCoW*.
+
+Il documento risultante è il seguente:
+
+- [WBS](./Allegati/Planning/1%20-%20WBS.md)
 
 ## Resource Management Plan
 
@@ -79,6 +101,10 @@ linea ai predecessori.
 ## Risk Management
 
 Analizzare ogni rischio espresso nella Analisi dei Rischi, analizzare la strategia risolutiva e commentare come la si intende attuare
+
+## Gestione del cambiamento
+
+???
 
 ## Project Proposal
 
