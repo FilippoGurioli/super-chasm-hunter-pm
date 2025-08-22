@@ -1,0 +1,8 @@
+nav:
+  - Home: index.md
+  - Prefazione: preface.md
+  - Scoping: scoping.md
+  - Planning: planning.md
+  - Launching: launching.md
+  - Monitoring: monitoring.md
+  - Closing: closing.md
