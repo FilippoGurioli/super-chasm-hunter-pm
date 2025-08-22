@@ -1,7 +1,3 @@
----
-title: Meeting template
----
-
 # Meeting &lt;Data&gt; | &lt;Durata&gt;
 
 ## :material-target: **Scopo**

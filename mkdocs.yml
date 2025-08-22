@@ -44,6 +44,21 @@ theme:
       toggle:
         icon: material/brightness-2
         name: Switch to light mode
+  nav:
+    - Home: index.md
+    - Prefazione: preface.md
+    - Scoping: scoping.md
+    - Planning: planning.md
+    - Launching: launching.md
+    - Monitoring: monitoring.md
+    - Closing: closing.md
+    - Allegati: 
+      - appendices
+      - Meeting template: appendices/meeting-template.md
+      - Scoping: 
+        - appendices/scoping
+      - Planning: 
+        - appendices/planning
 extra:
   generator: false
 extra_css:
