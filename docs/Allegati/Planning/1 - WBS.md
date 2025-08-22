@@ -1,5 +1,5 @@
 ---
-title: WBS
+title: Work Breakdown Structure
 ---
 
 # Work Breakdown Structure
