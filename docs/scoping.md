@@ -1,7 +1,3 @@
----
-title: Scoping
----
-
 # Scoping
 
 Durante la fase iniziale del progetto tutto il team si è riunito per definire gli obiettivi e i requisiti del progetto. Abbiamo condotto diverse discussioni e brainstorming per assicurarci di avere una comprensione chiara delle aspettative e delle sfide. Questo processo ci ha aiutato a stabilire un piano di lavoro solido e a identificare le aree chiave su cui concentrarci. L'insieme di questi *scoping meetings* ha prodotto quindi una serie di artefatti riassuntivi di quanto esposto.

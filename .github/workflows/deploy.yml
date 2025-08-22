@@ -22,7 +22,9 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install mkdocs-material
+        run: |
+          pip install mkdocs-material mkdocs-awesome-pages-plugin
+
 
       - name: Build MkDocs site
         run: mkdocs build --strict

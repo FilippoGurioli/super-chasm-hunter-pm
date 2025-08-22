@@ -1,7 +1,3 @@
----
-title: Planning
----
-
 # Planning
 
 Dopo l'accettazione del progetto, la fase di pianificazione ha l'obiettivo di tradurre i requisiti iniziali in un piano operativo dettagliato, con l'intento di ridurre i rischi e massimizzare le probabilità di successo.  

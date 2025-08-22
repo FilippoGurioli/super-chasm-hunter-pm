@@ -1,7 +1,3 @@
----
-title: Prefazione
----
-
 # Prefazione
 
 *The Gaming Lore Entertainment* è un'azienda neo nascente nel settore dello sviluppo videoludico, con l'obiettivo di creare esperienze di gioco coinvolgenti e innovative. *Super Chasm Hunter* è il primo titolo dell'azienda che punta a far introdurre l'organizzazione nel mercato. In quanto tale il suo scopo è quello di far acquisire esperienza ai membri fondatori attraverso la realizzazione di questo progetto e, nel mentre, garantire un ritorno economico che permetta la sostenibilità dell'azienda lungo il decorso del progetto. Con questo obiettivo ambizioso è necessario condurre una gestione di progetto attenta e dettagliata, analizzando a fondo i goal di progetto, i rischi e quindi stabilire un piano preciso. Sarà anche di fondamentale importanza eseguire quanta più monitorazione possibile al fine di poter analizzare quanti più dati per permettere al team di crescere velocemente imparando dai propri errori (e dai propri successi).

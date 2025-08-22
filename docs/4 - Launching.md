@@ -1,5 +1,0 @@
----
-title: Launching
----
-
-# Launching
