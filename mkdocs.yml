@@ -1,43 +1,63 @@
 site_name: Super Chasm Hunter
+strict: true
+repo_url: https://github.com/FilippoGurioli/super-chasm-hunter-pm
+theme:
+  name: material
+  favicon: assets/logo.svg
+  language: it
+  icon:
+    logo: assets/logo.svg
+    repo: material/github
+
+  features:
+    - navigation.top
+    - navigation.footer
+    - toc.integrate
+    - content.code.annotate
+
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+extra_css:
+  - assets/extra.css
+
+plugins:
+  - search
+  - search.suggest
+  - awesome-nav
+
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-theme:
-  name: material
-  logo: assets/logo.svg
-  favicon: assets/logo.svg
-  language: it
-  features:
-    - navigation.top
-    - navigation.footer
-  plugins:
-    - search
-    - search.suggest
-    - awesome-nav
-  repo_url: https://github.com/FilippoGurioli/super-chasm-hunter-pm
-  icon:
-    repo: fontawesome/brands/github
-  palette:
-    - scheme: default
-      media: "(prefers-color-scheme: light)"
-      primary: green
-      accent: green
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
-
-    - scheme: slate
-      media: "(prefers-color-scheme: dark)"
-      primary: green
-      accent: green
-      toggle:
-        icon: material/brightness-2
-        name: Switch to light mode
-# extra:
-#   generator: false
-# extra_css:
-#   - stylesheets/extra.css
-
+  - pymdownx.details
+  - pymdownx.blocks.tab:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
