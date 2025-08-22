@@ -10,6 +10,7 @@ theme:
     repo: material/github
 
   features:
+    - search.suggest
     - navigation.top
     - navigation.footer
     - toc.integrate
@@ -40,7 +41,6 @@ extra_css:
 
 plugins:
   - search
-  - search.suggest
   - awesome-nav
 
 markdown_extensions:
