@@ -8,9 +8,9 @@ In questo POS viene riassunto quanto detto negli scoping meetings.
 
 Scoping meetings:
 
-- [Meeting 1](../Meetings/Meeting%201%20-%2026-06-25.md)
-- [Meeting 2](../Meetings/Meeting%202%20-%2027-06-25.md)
-- [Meeting 3](../Meetings/Meeting%203%20-%2003-07-25.md)
+- [Meeting 1](../meetings/meeting-1.md)
+- [Meeting 2](../meetings/meeting-2.md)
+- [Meeting 3](../meetings/meeting-3.md)
 
 ---
 
@@ -63,7 +63,7 @@ Creare un videogioco con caratteristiche rogue like, rpg e building che permetta
 
 ## Rischi
 
-L'analisi dei rischi si può è stata eseguita in [questo file](./2%20-%20Analisi%20dei%20rischi.md).
+L'analisi dei rischi si può è stata eseguita in [questo file](./risk-analysis.md).
 
 ## Ostacoli
 
@@ -73,7 +73,7 @@ L'analisi dei rischi si può è stata eseguita in [questo file](./2%20-%20Analis
 
 ## Appendici
 
-Durante gli scoping meeting è stata condotta un'analisi finanziaria a sostegno del progetto insieme allo studio di fattibilità. Esse possono essere reperite [qui](./3%20-%20Analisi%20Finanziaria.md).
+Durante gli scoping meeting è stata condotta un'analisi finanziaria a sostegno del progetto insieme allo studio di fattibilità. Esse possono essere reperite [qui](./financial-analysis.md).
 
 ## Scelta del PMLC
 

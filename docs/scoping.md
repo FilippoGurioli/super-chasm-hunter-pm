@@ -25,25 +25,25 @@ Ogni meeting ha sempre seguito la stessa struttura e ogni sua parte ha una funzi
 - **Prossimo meeting**: al fine di mantenere una schedule ordinata
 - **Partecipanti prossimo meeting**: elenca i partecipanti previsti per il prossimo meeting.
 
-Si è creato anche un foglio [template](./Allegati/Meeting%20template.md) da copiare per velocizzare il processo di creazione avendo nel contempo la garanzia di adesione alla struttura prefissata.
+Si è creato anche un foglio [template](./appendices/meeting-template.md) da copiare per velocizzare il processo di creazione avendo nel contempo la garanzia di adesione alla struttura prefissata.
 
 ## Scoping meetings
 
 Si lascia di seguito l'elenco degli scoping meetings:
 
-- [Meeting 1](./Allegati/Meetings/Meeting%201%20-%2026-06-25.md)
-- [Meeting 2](./Allegati/Meetings/Meeting%202%20-%2027-06-25.md)
-- [Meeting 3](./Allegati/Meetings/Meeting%203%20-%2003-07-25.md)
+- [Meeting 1](./appendices/meetings/meeting-1.md)
+- [Meeting 2](./appendices/meetings/meeting-2.md)
+- [Meeting 3](./appendices/meetings/meeting-3.md)
 
 ## Artefatti
 
 Gli artefatti prodotti sono i seguenti:
 
-- [POS](./Allegati/Scoping/1%20-%20POS.md)
-- [RBS](./Allegati/Scoping/RBSs/1%20-%20Main.md)\*
-- [Analisi dei rischi](./Allegati/Scoping/2%20-%20Analisi%20dei%20rischi.md)
-- [Analisi finanziaria](./Allegati/Scoping/3%20-%20Analisi%20Finanziaria.md)
-- [Analisi SWOT](./Allegati/Scoping/4%20-%20Analisi%20SWOT.md)
+- [POS](./appendices/scoping/POS.md)
+- [RBS](./appendices/scoping/RBSs/main.md)\*
+- [Analisi dei rischi](./appendices/scoping/risk-analysis.md)
+- [Analisi finanziaria](./appendices/scoping/financial-analysis.md)
+- [Analisi SWOT](./appendices/scoping/SWOT-analysis.md)
 
 \*Si è deciso di suddividere l'RBS in sottoalberi al fine di migliorare la leggibilità dell'albero.
 
@@ -53,4 +53,4 @@ Gli spazi utilizzati dal team saranno pressochè tutti virtuali. I meeting si te
 
 ## Planning
 
-Una volta finito lo scoping il POS è stato sottoposto [all'approvazione](./Allegati/Meetings/Meeting%204%20-%2017-07-25.md) del team. Alla sua approvazione, il progetto si è mosso nella sua seconda fase, la pianificazione. La pianificazione deve concretizzare in azioni quanto fin'ora espresso verbalmente.
+Una volta finito lo scoping il POS è stato sottoposto [all'approvazione](./appendices/meetings/meeting-4.md) del team. Alla sua approvazione, il progetto si è mosso nella sua seconda fase, la pianificazione. La pianificazione deve concretizzare in azioni quanto fin'ora espresso verbalmente.

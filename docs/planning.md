@@ -14,7 +14,7 @@ I principali *deliverable* di questa fase includono:
 
 La documentazione è elaborata attraverso *Joint Project Planning Sessions* tra i membri del team.
 
-- [Meeting 5](./Allegati/Meetings/Meeting%205%20-%2017-07-25.md)
+- [Meeting 5](./appendices/meetings/meeting-5.md)
 
 ## Iterazioni
 
@@ -59,7 +59,7 @@ Una volta fatto ciò, il team si raduna per stabilire un ordine di priorità di 
 
 Il documento risultante è il seguente:
 
-- [WBS](./Allegati/Planning/1%20-%20WBS.md)
+- [WBS](./appendices/planning/WBS.md)
 
 ## Resource Management Plan
 
