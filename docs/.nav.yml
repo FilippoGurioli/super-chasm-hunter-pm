@@ -1,0 +1,29 @@
+nav:
+  - Home: index.md
+  - Prefazione: preface.md
+  - Ambito: scoping.md
+  - Pianificazione: planning.md
+  - Esecuzione: execution.md
+  - Monitoraggio: monitoring.md
+  - Chiusura: closing.md
+  - Appendici: 
+    - Meeting Template: appendices/meeting-template.md
+    - Meetings: 
+      - Meeting 1: appendices/meetings/meeting-1.md
+      - Meeting 2: appendices/meetings/meeting-2.md
+      - Meeting 3: appendices/meetings/meeting-3.md
+      - Meeting 4: appendices/meetings/meeting-4.md
+      - Meeting 5: appendices/meetings/meeting-5.md
+    - Ambito:
+      - Project Overview Statement: appendices/scoping/POS.md
+      - Analisi dei Rischi: appendices/scoping/risk-analysis.md
+      - Analisi Finanziaria: appendices/scoping/financial-analysis.md
+      - Analisi SWOT: appendices/scoping/SWOT-analysis.md
+      - Requirement Breakdown Structures:
+        - Main: appendices/scoping/RBSs/main.md
+        - Functional Requirements: appendices/scoping/RBSs/functional-requirements.md
+        - RPG Requirements: appendices/scoping/RBSs/rpg-requirements.md
+        - Rogue-Like Requirements: appendices/scoping/RBSs/rogue-like-requirements.md
+        - Building Requirements: appendices/scoping/RBSs/building-requirements.md
+    - Pianificazione:
+      - Work Breakdown Structure: appendices/planning/WBS.md
