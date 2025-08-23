@@ -24,6 +24,7 @@ Per valutare la sostenibilità economica del progetto è stato predisposto un [f
 Dal grafico elaborato si osserva che, per coprire i costi complessivi (6.800€), il prezzo minimo sostenibile sarebbe intorno ai **6,99€**, considerando il valore più basso delle vendite attese per il genere di riferimento (1000 copie).  
 
 Tuttavia, il team ha scelto un prezzo di **8,99€**, che rimane comunque nella fascia bassa del mercato, in quanto:  
+
 - riduce il numero di copie necessarie per raggiungere il pareggio (circa 700);  
 - garantisce un margine positivo (circa 657€), volto alla copertura dei costi variabili;  
 - non compromette l’accessibilità del titolo ai potenziali acquirenti.  

@@ -26,4 +26,10 @@ nav:
         - Rogue-Like Requirements: appendices/scoping/RBSs/rogue-like-requirements.md
         - Building Requirements: appendices/scoping/RBSs/building-requirements.md
     - Pianificazione:
+      - Gestione del Rischio: appendices/planning/risk-management.md
       - Work Breakdown Structure: appendices/planning/WBS.md
+      - Gestione delle Risorse: appendices/planning/resource-management.md
+      - Gestione del Cashflow: appendices/planning/cashflow-management.md
+      - Project Network Diagram: appendices/planning/PND.md
+      - Gantt Chart: appendices/planning/gantt.md
+      - Project Proposal: appendices/planning/project-proposal.md

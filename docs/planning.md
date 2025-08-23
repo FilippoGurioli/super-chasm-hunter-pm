@@ -105,7 +105,7 @@ Durante le analisi e le stime si è anche accumulata una *scope bank* pari ad un
 
 ## Project Proposal
 
-Alla fine della pianificazione è stato redatto il Project Proposal, che include:
+Alla fine della pianificazione è stato redatto il [Project Proposal](./appendices/planning/project-proposal.md), che include:
 
 - Executive Summary
 - Background
