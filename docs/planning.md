@@ -16,19 +16,35 @@ La documentazione è elaborata attraverso *Joint Project Planning Sessions* tra 
 
 - [Meeting 5](./appendices/meetings/meeting-5.md)
 
+## Gestione del cambiamento
+
+La gestione del cambiamento è un aspetto cruciale del progetto, poiché consente di adattarsi alle nuove esigenze e alle sfide emergenti. Durante la fase di pianificazione, è stato sviluppato un piano di gestione del cambiamento che include:
+
+1. **Identificazione dei cambiamenti**: Raccogliere e documentare tutte le richieste di cambiamento provenienti dai membri del team e dagli stakeholder.
+2. **Valutazione dell'impatto**: Analizzare l'impatto di ciascun cambiamento proposto sui requisiti, sul piano di progetto e sulle risorse.
+3. **Approvazione dei cambiamenti**: Stabilire un processo di approvazione formale per i cambiamenti, coinvolgendo le parti interessate chiave.
+4. **Comunicazione**: Assicurarsi che tutte le parti interessate siano informate dei cambiamenti approvati e delle loro implicazioni.
+5. **Monitoraggio e revisione**: Monitorare l'implementazione dei cambiamenti e rivedere il piano di progetto di conseguenza.
+
+## Risk Management
+
+In questa fase si è anche voluto indagare più a fondo su i [rischi](./appendices/scoping/risk-analysis.md) individuati durante lo scoping. Per ognuno di essi è stata effettuata un'analisi sulla strategia risolutiva, cercando di concretizzarla in attività specifiche.
+
+- [Gestione del rischio](./appendices/planning/risk-management.md)
+
 ## Iterazioni
 
-Si prevedono 5 iterazioni, 1 per ogni macro genere che il prodotto deve avere (RPG, rogue-like e building), una di rifinitura e una finale di marketing e pubblicazione. È obbligatorio specificare che le operazioni di marketing verranno eseguite durante tutta la fase di sviluppo al fine di costruire una community e mantenerla viva. Con l'ultima iterazione si intende il completamento delle attività di marketing e la preparazione per il lancio del prodotto.
+Si prevedono 5 iterazioni, una per ogni macro genere che il prodotto deve avere (RPG, rogue-like e building), una di rifinitura e una finale di marketing e pubblicazione. È obbligatorio specificare che le operazioni di marketing verranno eseguite durante tutta la fase di sviluppo al fine di costruire una community e mantenerla viva. Con l'ultima iterazione si intende il completamento delle attività di marketing e la preparazione per il lancio del prodotto.
 
 La documentazione successiva è da ritenersi relativa alla prima iterazione, fatta eccezione per il PDS che sarà aggiornato piuttosto che riscritto ex novo ad ogni ciclo.
 
 Ogni iterazione porta anche al raggiungimento di una milestone. Le milestone sono così definite:
 
-- **Milestone 1**: Completamento delle feature RPG
-- **Milestone 2**: Completamento delle feature rogue-like
-- **Milestone 3**: Completamento delle feature di building
-- **Milestone 4**: Completamento azioni di rifinitura
-- **Milestone 5**: Completamento azioni di marketing, finalizzazione e pubblicazione
+- **Milestone 1**: Completamento delle feature RPG;
+- **Milestone 2**: Completamento delle feature rogue-like;
+- **Milestone 3**: Completamento delle feature di building;
+- **Milestone 4**: Completamento azioni di rifinitura;
+- **Milestone 5**: Completamento azioni di marketing, finalizzazione e pubblicazione.
 
 ---
 
@@ -63,46 +79,33 @@ Il documento risultante è il seguente:
 
 ## Resource Management Plan
 
-- Stima delle risorse materiali
-- Stima delle risorse umane
-- Stima competenze -> skill x attività | skill x personale = attività x personale
-- Cashflow management
+Durante la fase di pianificazione è stata effettuata l'analisi delle risorse necessarie per l'iterazione. Nella fattispecie si sono analizzate e stimate le risorse materiali, le risorse umane e le competenze necessarie per ciascuna attività. Una volta completata la stima delle risorse materiali è anche stato redatto una cashflow management table.
+
+- [Resource Management](./appendices/planning/resource-management.md)
+- [Cashflow Management](./appendices/planning/cashflow-management.md)
 
 ## Project Network Diagram + Gantt Chart
 
-1. Stima del lavoro -> giudizio dell'"esperto"
-2. Stima del tempo -> delphi
+Una volta saputi tutti i task relativi a questa iterazione, il team ha proceduto con la stima del lavoro e del tempo necessario.
 
-- Creare il PND
+Per stima del lavoro necessario si intende definire con dettaglio massimo in cosa consiste la task in analisi. Per stima del tempo invece si intende il tempo necessario per completare la task.
 
----
+Per calcolarli sono stati adottati due approcci diversi: per la stima del lavoro si è adottato il *giudizio dell'esperto*, mentre per la stima del tempo si è utilizzato il *metodo Delphi*. Questa decisione è stata presa per due ragioni:
 
-Come costruire un Initial Dependency Diagram
-1. Per ogni task, scrivere sul Post-It il suo ID, il nome e la durata.
-2. Posizionare il Post-It sulla parte destra della lavagna (whiteboard).
-3. Posizionare lo start node sulla parte sinistra della lavagna.
-4. Muovere tutti i task senza un predecessore sulla parte sinistra della
-lavagna e collegarli allo start node.
-5. Muovere a sinistra tutti i task che si trovano sulla parte destra, ma che
-hanno tutti i predecessori già sulla sinistra e collegali con una singola
-linea ai predecessori.
-6. Ripetere il passo 5 finché tutti i task sono stati spostati a sinistra.
+1. Il team crede che il modo migliore per stabilire la complessità di un'attività sia basarsi sull'esperienza di chi l'ha già svolta in passato.
+2. Una volta che tutto il team ha compreso ne ha compreso la complessità, una stima tramite *metodo Delphi* risulta più accurata.
+3. Per perseguire al meglio l'obiettivo di accumulare esperienza, il team si sottopone di sua volontà a quante più strategie possibili, al fine di poterne valutare pregi e difetti in prima persona.
 
----
+Una volta che ogni task ha un ID, una descrizione, una stima del lavoro e una stima del tempo, il team ha proceduto a costruire Project Network Diagram e, di conseguenza, anche il Gantt Chart.
 
-- Comprimere se necessario
-- Derivare il Gantt
-- Creare una scope bank
+- [Project Network Diagram](./appendices/planning/PND.md)
+- [Gantt Chart](./appendices/planning/gantt.md)
 
-## Risk Management
-
-Analizzare ogni rischio espresso nella Analisi dei Rischi, analizzare la strategia risolutiva e commentare come la si intende attuare
-
-## Gestione del cambiamento
-
-???
+Durante le analisi e le stime si è anche accumulata una *scope bank* pari ad una maggiorazione del 20%. Questa servirà in fase di esecuzione dell'iterazione per gestire eventuali imprevisti o cambiamenti di requisiti.
 
 ## Project Proposal
+
+Alla fine della pianificazione è stato redatto il Project Proposal, che include:
 
 - Executive Summary
 - Background
@@ -112,4 +115,8 @@ Analizzare ogni rischio espresso nella Analisi dei Rischi, analizzare la strateg
 - Time and Cost Summary
 - Appendices
 
+Questo è stato sottoposto nel [Joint Project Planning Session finale](./appendices/meetings/meeting-5.md) al PM e al CEO per la conferma o aggiornamento.
+
 ## Lancio
+
+Dopo l'accettazione del Project Proposal, il team procederà con il lancio dell'iterazione. Verranno definiti i tool e i template necessari per l'esecuzione. Verranno anche definite le regole operative del team e le modalità di comunicazione. Infine, verranno assegnate le risorse e finalizzata la schedula dell'iterazione. 
