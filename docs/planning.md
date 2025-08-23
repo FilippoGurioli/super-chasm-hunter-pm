@@ -1,4 +1,4 @@
-# Planning
+# Pianificazione
 
 Dopo l'accettazione del progetto, la fase di pianificazione ha l'obiettivo di tradurre i requisiti iniziali in un piano operativo dettagliato, con l'intento di ridurre i rischi e massimizzare le probabilità di successo.  
 
@@ -28,7 +28,7 @@ La gestione del cambiamento è un aspetto cruciale del progetto, poiché consent
 
 ## Risk Management
 
-In questa fase si è anche voluto indagare più a fondo su i [rischi](./appendices/scoping/risk-analysis.md) individuati durante lo scoping. Per ognuno di essi è stata effettuata un'analisi sulla strategia risolutiva, cercando di concretizzarla in attività specifiche.
+In questa fase si è anche voluto indagare più a fondo sui [rischi](./appendices/scoping/risk-analysis.md) individuati durante lo scoping. Per ognuno di essi è stata effettuata un'analisi sulla strategia risolutiva, cercando di concretizzarla in attività specifiche.
 
 - [Gestione del rischio](./appendices/planning/risk-management.md)
 
@@ -84,16 +84,16 @@ Durante la fase di pianificazione è stata effettuata l'analisi delle risorse ne
 - [Resource Management](./appendices/planning/resource-management.md)
 - [Cashflow Management](./appendices/planning/cashflow-management.md)
 
-## Project Network Diagram + Gantt Chart
+## Project Network Diagram e Gantt Chart
 
 Una volta saputi tutti i task relativi a questa iterazione, il team ha proceduto con la stima del lavoro e del tempo necessario.
 
 Per stima del lavoro necessario si intende definire con dettaglio massimo in cosa consiste la task in analisi. Per stima del tempo invece si intende il tempo necessario per completare la task.
 
-Per calcolarli sono stati adottati due approcci diversi: per la stima del lavoro si è adottato il *giudizio dell'esperto*, mentre per la stima del tempo si è utilizzato il *metodo Delphi*. Questa decisione è stata presa per due ragioni:
+Per calcolare le stime sopra citate sono stati adottati due approcci diversi: per la stima del lavoro si è adottato il *giudizio dell'esperto*, mentre per la stima del tempo si è utilizzato il *metodo Delphi*. Questa decisione è stata presa per tre ragioni:
 
 1. Il team crede che il modo migliore per stabilire la complessità di un'attività sia basarsi sull'esperienza di chi l'ha già svolta in passato.
-2. Una volta che tutto il team ha compreso ne ha compreso la complessità, una stima tramite *metodo Delphi* risulta più accurata.
+2. Una volta che tutto il team ne ha compreso la complessità, una stima della task tramite *metodo Delphi* risulta più accurata.
 3. Per perseguire al meglio l'obiettivo di accumulare esperienza, il team si sottopone di sua volontà a quante più strategie possibili, al fine di poterne valutare pregi e difetti in prima persona.
 
 Una volta che ogni task ha un ID, una descrizione, una stima del lavoro e una stima del tempo, il team ha proceduto a costruire Project Network Diagram e, di conseguenza, anche il Gantt Chart.
