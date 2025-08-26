@@ -56,7 +56,7 @@ Una buona pianificazione (specialmente relativa a WBS e Gantt) è la strategia m
 - Impatto: Basso
 - Mitigazione: Accettare
 
-L'utilizzo di asset è ben voluto dal team essendo in grado di velocizzare di molto i tempi di sviluppo. Questo rischio riguarda principalmente la possibilità che l'integrazione di essi sia particolarmente problematica. Valutando attentamente gli asset si ha buona garanzia di evitare questo rischio.
+L'utilizzo di asset è ben voluto dal team essendo in grado di velocizzare di molto i tempi di sviluppo. Questo rischio riguarda principalmente la possibilità che l'integrazione di essi sia particolarmente problematica. Avendo il team 3 software engineer con esperienza si ha buona certezza che problemi di integrazione siano sempre affrontabili direttamente dal team, senza fare affidamento a terzi.
 
 ## R6: Sbagliare tecnica di marketing può portare ad un flop
 
@@ -80,7 +80,7 @@ TODO
 - Impatto: Medio
 - Mitigazione: Accettare
 
-TODO
+Steam è la più grande piattaforma di distribuzione di videogiochi al mondo. È inverosimile che, anche a fronte di un improbabile aggiornamento delle policy, esse siano stringenti al punto da far fallire il progetto. Date queste considerazioni, si accetta la possibilità di questo cambiamento.
 
 ## R9: Asset acquistati possono diventare deprecati
 
@@ -88,7 +88,9 @@ TODO
 - Impatto: Basso
 - Mitigazione: Accettare
 
-TODO
+A differenza del rischio R5, questo fa riferimento alla velocità con la quale nuovi asset possano soppiantare quelli più comunemente usati attualmente. Questo porterebbe ad una perdita effettiva in quanto il prodotto, per restare competitivo, dovrà acquistare il nuovo asset perdendo il budget investito nell'asset deprecato.
+
+Ad ogni modo, prima di ogni acquisto si fa un'attenta valutazione dell'asset da acquistare, analizzando a fondo il mercato, quindi stilando una lista di possibili asset in grado di soddisfare i requisiti e infine acquistando quello che meglio risolve il problema. A fronte di tutto questo, si assume che il rischio sia basso e che quindi sia accettabile.
 
 ## R10: Lavorare in tempi diversi può compromettere la comunicazione
 
@@ -96,7 +98,11 @@ TODO
 - Impatto: Medio
 - Mitigazione: Evitare
 
-TODO
+L'aspetto organizzativo è centrale in questo progetto. È fondamentale evitare qualsiasi perdita di informazione a causa di comunicazioni informali/verbali mai trascritte. Al fine di avere informazioni su cui fare audit e anche per ricordare chiaramente quanto detto, è fondamentale che ogni comunicazione verbale e/o informale venga trascritta se di importanza significativa.
+
+- Si attueranno meeting settimanali in cui far emergere le possibili riflessioni che ogni membro può aver fatto. 
+- Si incentiverà l'utilizzo di canali testuali anche per le informazioni più semplici.
+- Si redigerà ad ogni meeting la trascrizione di quanto detto (come già si sta facendo)
 
 ## R11: Sviluppo di AI NPC può rallentare significativamente
 
@@ -104,4 +110,4 @@ TODO
 - Impatto: Medio
 - Mitigazione: Trasferire
 
-TODO
+Lo sviluppo di intelligenze artificiali può portare via molto tempo allo sviluppo del progetto. Avendo già fatto esperienza della complessità di questo requisito, il team ha deciso preventivamente di affidarsi ad un asset di terze parti per il suo compimento. È stata fatta [un'analisi di mercato](./procurement-analysis) che ha portato all'acquisto di un asset che evitasse questo rischio. 
