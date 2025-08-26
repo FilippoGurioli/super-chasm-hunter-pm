@@ -1,3 +1,7 @@
 # Procurement analysis - AI NPC
 
-TODO
+- vendor solicitation
+- vendor evalutation
+- vendor selection
+- vendor contracting
+- vendor management
