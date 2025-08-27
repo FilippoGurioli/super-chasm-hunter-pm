@@ -300,6 +300,8 @@ task 3:
 
 2.4
 
+!!! ARRIVARE FINO A 4.*, POI ANDARE AL MEETING SUCCESSIVO !!!
+
 ## :material-check: **Decisioni prese**
 
 - struttura del WBS
