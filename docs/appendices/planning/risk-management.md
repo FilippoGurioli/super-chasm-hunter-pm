@@ -22,9 +22,7 @@ Questo documento elenca i rischi previsti durante la [fase di scoping](../scopin
 - Impatto: Medio
 - Mitigazione: Mitigare
 
-Dato che il tempo previsto per il progetto è 1 anno la possibilità di rilascio da parte di Unity Technologies diminuisce notevolmente. Ad ogni modo, la data di partenza è stata scelta in corrispondenza di un rilascio, che fa calare verosimilmente a zero le possibilità di un ulteriore rilascio durnate l'anno successivo.
-
-Si noti che per rilascio si intende solo quelle release che hanno un impatto sostanziale sul prodotto. Release di bug fixing e patch non vengono considerate.
+Oltre alla scelta di una versione LTS, prevedere una revisione trimestrale delle release Unity per identificare tempestivamente eventuali modifiche critiche, e pianificare aggiornamenti incrementali se necessar
 
 ## R2: Stima dell'effort può essere sbagliata data l'inesperienza
 
@@ -32,7 +30,7 @@ Si noti che per rilascio si intende solo quelle release che hanno un impatto sos
 - Impatto: Alto
 - Mitigazione: Piano di contingenza
 
-TODO
+Prevedere dei buffer di tempo e costi nel piano di progetto per assorbire eventuali errori di stima e attuare una revisione delle stime ogni 2 mesi, adattandole in base all'avanzamento reale.
 
 ## R3: Budget limitato può portare all'inattuabilità del progetto
 
@@ -40,7 +38,11 @@ TODO
 - Impatto: Alto
 - Mitigazione: Piano di contingenza
 
-TODO
+Definire un MVP (Minimum Viable Product) che garantisca margine sufficiente e che, in caso di carenza di budget, permetta comunque un primo ingresso nel mercato.
+
+Identificare forme alternative di finanziamento come crowdfunding e early access.
+
+Revisionare mensilmente il budget per aderire quanto più possibile al piano.
 
 ## R4: La presenza non costante del team può portare a ritardi
 
@@ -48,7 +50,7 @@ TODO
 - Impatto: Basso
 - Mitigazione: Accettare
 
-Una buona pianificazione (specialmente relativa a WBS e Gantt) è la strategia migliore per evitare i ritardi. Essa è stata condotta proprio per armonizzare la presenza saltuaria dei membri con le dead line del progetto. Si noti anche che il tempo limite del progetto deciso ad 1 anno è più che altro simbolico, sicuramente la dead line non può sforare di molto questa data ma non è fondamentale rispettarla; il team non si imbatterà in particolari problemi e/o costi nel caso di slittamento.
+Avendo una buona pianificazione (specialmente riguardante WBS e Gantt) che tenga conto di queste variabili si accetta il rischio.
 
 ## R5: L'utilizzo massiccio di asset può rallentare il progetto
 
@@ -64,7 +66,7 @@ L'utilizzo di asset è ben voluto dal team essendo in grado di velocizzare di mo
 - Impatto: Alto
 - Mitigazione: Mitigare
 
-TODO
+Si è pensato di effettuare una ricerca di mercato preliminare prima di lanciare la campagna marketing. Inoltre si prevedono campagne di test (alfa/beta testing) su piccola scala per validare il messaggio promozionale. Infine si stabiliranno indicatori KPI da monitorare entro i primi mesi di marketing per correggere la rotta rapidamente.
 
 ## R7: Perdita di dati a causa di utilizzo improprio degli strumenti
 
@@ -72,7 +74,11 @@ TODO
 - Impatto: Alto
 - Mitigazione: Evitare
 
-TODO
+Soluzioni proposte:
+
+- Formare i membri del team sull'uso corretto dei sistemi di versioning e cloud storage.
+- Abilitare backup automatici giornalieri per i file di progetto.
+- Imporre l'uso di repository con permessi granulari e controlli di accesso.
 
 ## R8: Steam cambia le policy e/o la percentuale trattenuta
 
