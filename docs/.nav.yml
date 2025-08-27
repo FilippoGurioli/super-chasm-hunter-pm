@@ -19,6 +19,7 @@ nav:
       - Analisi dei Rischi: appendices/scoping/risk-analysis.md
       - Analisi Finanziaria: appendices/scoping/financial-analysis.md
       - Analisi SWOT: appendices/scoping/SWOT-analysis.md
+      - Analisi dei Requisiti: appendices/scoping/requirement-analysis.md
       - Requirement Breakdown Structures:
         - Main: appendices/scoping/RBSs/main.md
         - Functional Requirements: appendices/scoping/RBSs/functional-requirements.md

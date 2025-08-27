@@ -2,6 +2,8 @@
 title: Main RBS
 ---
 
+**Nota**: il generatore del sito statico non visualizza correttamente i grafici col tema scuro, per la visualizzazione corretta si utilizzi il tema chiaro.
+
 ```mermaid
 %%{init: { 'flowchart': {"curve": "monotoneX"}} }%%
 graph LR

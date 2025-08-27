@@ -40,7 +40,7 @@ Si lascia di seguito l'elenco degli scoping meetings:
 Gli artefatti prodotti sono i seguenti:
 
 - [POS](./appendices/scoping/POS.md)
-- [RBS](./appendices/scoping/RBSs/main.md)\*
+- [Analisi dei Requisiti](./appendices/scoping/requirement-analysis.md) + [RBS](./appendices/scoping/RBSs/main.md)\*
 - [Analisi dei rischi](./appendices/scoping/risk-analysis.md)
 - [Analisi finanziaria](./appendices/scoping/financial-analysis.md)
 - [Analisi SWOT](./appendices/scoping/SWOT-analysis.md)
