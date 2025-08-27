@@ -15,6 +15,7 @@ I principali *deliverable* di questa fase includono:
 La documentazione è elaborata attraverso *Joint Project Planning Sessions* tra i membri del team.
 
 - [Meeting 5](./appendices/meetings/meeting-5.md)
+- [Meeting 6](./appendices/meetings/meeting-6.md)
 
 ## Gestione del cambiamento
 
