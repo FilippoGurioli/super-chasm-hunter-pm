@@ -26,7 +26,7 @@ La gestione del cambiamento è un aspetto cruciale del progetto, poiché consent
 4. **Comunicazione**: Assicurarsi che tutte le parti interessate siano informate dei cambiamenti approvati e delle loro implicazioni.
 5. **Monitoraggio e revisione**: Monitorare l'implementazione dei cambiamenti e rivedere il piano di progetto di conseguenza.
 
-## Risk Management
+## Gestione del Rischio
 
 In questa fase si è anche voluto indagare più a fondo sui [rischi](./appendices/scoping/risk-analysis.md) individuati durante lo scoping. Per ognuno di essi è stata effettuata un'analisi sulla strategia risolutiva, cercando di concretizzarla in attività specifiche.
 
