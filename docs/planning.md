@@ -80,7 +80,7 @@ Il documento risultante è il seguente:
 
 ## Resource Management Plan
 
-Durante la fase di pianificazione è stata effettuata l'analisi delle risorse necessarie per l'iterazione. Nella fattispecie si sono analizzate e stimate le risorse materiali, le risorse umane e le competenze necessarie per ciascuna attività. Una volta completata la stima delle risorse materiali è anche stato redatto una cashflow management table.
+Durante la fase di pianificazione è stata effettuata l'analisi delle risorse necessarie per l'iterazione. Nella fattispecie si sono analizzate e stimate le risorse materiali, le risorse umane e le competenze necessarie per ciascuna attività. Una volta completata la stima delle risorse materiali è anche stata redatta una cashflow management table.
 
 - [Resource Management](./appendices/planning/resource-management.md)
 - [Cashflow Management](./appendices/planning/cashflow-management.md)
