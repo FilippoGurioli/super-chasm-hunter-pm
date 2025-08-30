@@ -251,7 +251,7 @@ S6.1 --> S6.2[test orientamento protagonista, 1 gg]
 
 A7 --> A7.1[logica risoluzione effetto base, 3 gg]
 A7.1 --> A7.2[test risoluzione effetto base, 1 gg]
-A7.3 --> A7.4[logica visualizzazione risoluzione effetto base, 1 gg]
+A7.2 --> A7.3[logica visualizzazione risoluzione effetto base, 1 gg]
 
 A71 --> A71.1[logica risoluzione effetto speciale, 1 gg]
 A71.1 --> A71.2[test risoluzione effetto speciale, 1 gg]
