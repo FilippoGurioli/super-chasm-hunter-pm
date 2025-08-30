@@ -217,4 +217,100 @@ A4 --> A4.1[HUD ingresso al livello, 1 gg]
 A4.1 --> A4.2[effetti di danno + effetti transizione, 1 gg]
 A4.2 --> A4.3[visualizzazione boss bar, 1 gg]
 A4.3 --> A4.4[test, 2 gg]
+
+0 --> 5
+5 --> 5.1
+5 --> 5.2
+
+5.1 --> FG5[Filippo G]
+5.2 --> FG5
+
+FG5 --> FG5.1[logica per movimento protagonista, 1 gg]
+FG5.1 --> FG5.2[test movimento protagonista, 1 gg]
+
+0 --> 6
+6 --> 6.1 --> S6[Silvia]
+6 --> 6.2 --> S6
+
+S6 --> S6.1[logica per orientamento protagonista, 1 gg]
+S6.1 --> S6.2[test orientamento protagonista, 1 gg]
+
+0 --> 7
+7 --> 7.1
+7.1 --> 7.1.1 --> A7[Anny]
+7.1 --> 7.1.2 --> A7
+7.1 --> 7.1.3 --> A7
+7 --> 7.2
+7.2 --> 7.2.1 --> A71[Anny]
+7.2 --> 7.2.2 --> A71
+7.2 --> 7.2.3 --> A71
+
+A7 --> A7.1[logica risoluzione effetto base, 3 gg]
+A7.1 --> A7.2[test risoluzione effetto base, 1 gg]
+A7.3 --> A7.4[logica visualizzazione risoluzione effetto base, 1 gg]
+
+A71 --> A71.1[logica risoluzione effetto speciale, 1 gg]
+A71.1 --> A71.2[test risoluzione effetto speciale, 1 gg]
+
+0 --> 8
+8 --> 8.1
+8.1 --> 8.1.1 --> F8[Filippo G]
+8.1 --> 8.1.2 --> F8
+8.1 --> 8.1.3 --> F8
+8 --> 8.2
+8.2 --> 8.2.1
+8.2.1 --> 8.2.1.1
+8.2.1.1 --> 8.2.1.1.1 --> F81[Filippo G]
+8.2.1.1 --> 8.2.1.1.2 --> F81
+8.2.1.1 --> 8.2.1.1.3 --> F81
+8.2.1 --> 8.2.1.2 --> F81
+8.2 --> 8.2.2
+8.2.2 --> 8.2.2.1 --> F82[Filippo G]
+8.2.2 --> 8.2.2.2 --> F82
+8.2 --> 8.2.3
+8.2.3 --> 8.2.3.1 --> F82
+8.2.3 --> 8.2.3.2 --> F82
+8.2 --> 8.2.4
+8.2.4 --> 8.2.4.1 --> F82
+8.2.4 --> 8.2.4.2 --> F82
+8.2 --> 8.2.5 --> F82
+
+F8 --> F8.1[logica salvataggio - quando, 1 gg]
+F8.1 --> F8.2[test logica salvataggio - quando, 1 gg]
+F81 --> F81.1[logica salvataggio - inventario + item in mano, 1 gg]
+F81.1 --> F81.2[test logica salvataggio - inventario + item in mano, 1 gg]
+F82 --> F82.1[logica salvataggio - vita + mana + data, 1 gg]
+F82.1 --> F82.2[test logica salvataggio - vita + mana + data, 1 gg]
+F82.2 --> F82.3[logica salvataggio - item piazzati, 1 gg]
+F82.3 --> F82.4[test logica salvataggio - item piazzati, 1 gg]
+
+0 --> 9
+9 --> 9.1 --> S9[Silvia]
+9 --> 9.2
+9.2 --> 9.2.1
+9.2.1 --> 9.2.1.1 --> S9
+9.2.1 --> 9.2.1.2 --> S9
+9.2 --> 9.2.2 --> S9
+9.2 --> 9.2.3 --> S9
+9.2 --> 9.2.4
+9.2.4 --> 9.2.4.1 --> F9[Filippo P]
+9.2.4 --> 9.2.4.2 --> F9
+9 --> 9.3
+9.3 --> 9.3.1 --> A9[Anny]
+9.3 --> 9.3.2 --> 9.3.2.1 --> A9
+9.3 --> 9.3.3
+9.3.3 --> 9.3.3.1 --> A9
+9.3.3 --> 9.3.3.2 --> A9
+9 --> 9.4 --> 9.4.1 --> A9
+
+S9 --> S9.1[logica vendita item, 1 gg]
+S9.1 --> S9.2[logica gestione dialoghi, 3 gg]
+S9.2 --> S9.3[test logica vendita item + dialoghi, 2 gg]
+
+F9 --> F9.1[creare asset del mercante, 2 gg]
+F9.1 --> F9.2[creare asset per dialoghi, 2 gg]
+
+A9 --> A9.1[logica acquisto oggetti, 2 gg]
+A9.1 --> A9.2[logica negozio aperto/chiuso, 1 gg]
+A9.2 --> A9.3[test logica acquisto e apertura, 2 gg]
 ```

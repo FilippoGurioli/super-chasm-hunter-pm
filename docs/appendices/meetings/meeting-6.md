@@ -405,6 +405,7 @@ task 4:
 
 ## :material-rocket-launch: **Azioni da fare**  
 
+- finire WBS
 - Gestione delle risorse materiali e umane
 - Gestione del cashflow
 
@@ -414,5 +415,4 @@ task 4:
 
 ## :material-account-group: **Partecipanti prossimo meeting**  
 
-- Luca
-- Filippo G
+Tutto il team
