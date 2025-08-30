@@ -317,4 +317,26 @@ F9.1 --> F9.2[creare asset per dialoghi, 2 gg]
 A9 --> A9.1[logica acquisto oggetti, 2 gg]
 A9.1 --> A9.2[logica negozio aperto/chiuso, 1 gg]
 A9.2 --> A9.3[test logica acquisto e apertura, 2 gg]
+
+0 --> 10
+10 --> 10.1 --> F10[Filippo G]
+10 --> 10.2 --> F10
+10 --> 10.3 --> 10.3.1 --> F10
+10 --> 10.4 --> F10
+10 --> 10.5 --> F10
+
+F10 --> F10.1[logica denaro, 1 gg]
+F10.1 --> F10.2[test logica denaro, 1 gg]
+
+0 --> 11
+11 --> 11.1 --> S11[Silvia]
+11 --> 11.2 --> S11
+11 --> 11.3
+11.3 --> 11.3.1 --> S11
+11.3 --> 11.3.2 --> S11
+11.3 --> 11.3.3 --> S11
+11 --> 11.4 --> S11
+
+S11 --> S11.1[logica munizioni, 1 gg]
+S11.1 --> S11.2[test logica munizioni, 1 gg]
 ```

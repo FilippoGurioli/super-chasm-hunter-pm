@@ -86,6 +86,21 @@ Tutto il team:
             2. essere acquistabili una sola volta
     4. può essere aperto o chiuso
         1. dipende dal giorno
+10. denaro
+    1. ha un valore massimo
+    2. non può scendere sotto zero
+    3. aumenta quando il player tocca item monete nel gioco
+        1. monete aumentano il valore del denaro in modo variabile
+    4. aumenta quando il player vende item a mercanti
+    5. diminuisce quando il player compra item dai mercanti
+11. munizioni
+    1. ha un valore massimo
+    2. non può scendere sotto zero
+    3. aumenta quando il player *trova* altre munizioni
+        1. raccoglie
+        2. compra
+        3. crea
+    4. diminuisce quando un'arma le utilizza
 
 **analisi**
 
@@ -279,7 +294,37 @@ task 3:
 - durata: 2 gg
 - deliverable: codice di test
 
+10.1, 10.2, 10.3.1, 10.4, 10.5
 
+- assegnatario: Filippo G
+
+task 1:
+
+- descrizione: implementare logica denaro
+- durata: 1 gg
+- deliverable: codice sorgente
+
+task 2:
+
+- descrizione: testare logica denaro
+- durata: 1 gg
+- deliverable: codice di test
+
+11.1, 11.2, 11.3.1, 11.3.2, 11.3.3, 11.4
+
+- assegnatario: Silvia
+
+task 1:
+
+- descrizione: implementare logica munizioni
+- durata: 1 gg
+- deliverable: codice sorgente
+
+task 2:
+
+- descrizione: test logica munizioni
+- durata: 1 gg
+- deliverable: codice di test
 
 ## :material-check: **Decisioni prese**
 
@@ -287,7 +332,6 @@ task 3:
 
 ## :material-rocket-launch: **Azioni da fare**  
 
-- finire WBS
 - Gestione delle risorse materiali e umane
 - Gestione del cashflow
 
@@ -297,4 +341,5 @@ task 3:
 
 ## :material-account-group: **Partecipanti prossimo meeting**  
 
-Tutto il team
+Filippo G
+Luca
