@@ -61,7 +61,6 @@ S1 --> S1.1[logica status effect - vita + mov, 2 gg]
 S1.1 --> S1.2[logica status effect - arma, 2 gg]
 S1.2 --> S1.3[visualizzazione status effect, 1 gg]
 S1.3 --> S1.4[test status effect, 1 gg]
-S1.4 --> S1.5[Filippo P, art status effect, 2 gg]
 
 0 --> 3
 3 --> 3.1

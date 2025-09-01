@@ -6,165 +6,48 @@ Partendo dall'elenco di tutte le task identificate tramite *giudizio dell'espert
 
 | ID | Nome | Durata | Assegnatario |
 |----|------|--------|--------------|
-| 1  |
-| 2  |
-| 3  |
-| 4  |
-| 5  |
-| 6  |
-| 7  |
-| 8  |
-| 9  |
-| 10 |
-| 11 |
-| 12 |
-| 13 |
-| 14 |
-| 15 |
-| 16 |
-| 17 |
-| 18 |
-| 19 |
-| 20 |
-
-1.1.1 --> L1[Luca, produrre asse vita protagonista, 1 gg]
-1.1.2 --> L1
-1.1.3 --> L1
-1.1.4 --> L1
-1.2.1.1 --> FG1[Filippo G]
-1.2.1.2 --> FG1
-1.2.1.3 --> FG1
-1.2.2.1 --> FG1
-1.2.3.1 --> FG1
-FG1 --> FG1.1[gestione vita protagonista, 2 gg] --> FG1.2[visualizzazione vita protagonista, 1 gg] --> FG1.3[test vita, 1 gg]
-1.3.1 --> FP1[Filippo P, animazione flinching, 1 gg]
-
-2.1 --> S1[Silvia]
-2.2 --> S1
-2.3.1.1 --> S1
-2.4 --> FP2[Filippo P, art status effect, 2 gg]
-2.5.1 --> S1
-2.5.2 --> S1
-2.5.3 --> S1
-2.5.4 --> S1
-2.5.5 --> S1
-2.5.6 --> S1
-
-S1 --> S1.1[logica status effect - vita + mov, 2 gg]
-S1.1 --> S1.2[logica status effect - arma, 2 gg]
-S1.2 --> S1.3[visualizzazione status effect, 1 gg]
-S1.3 --> S1.4[test status effect, 1 gg]
-S1.4 --> S1.5[Filippo P, art status effect, 2 gg]
-
-3.1.1 --> L3[Luca, asset 2D x mana protagonista, 1 gg]
-3.1.2 --> L3
-3.1.3 --> L3
-3.1.4 --> L3
-
-3.2.1 --> A3[Anny]
-3.2.2 --> A3
-3.2.3 --> A3
-3.2.4 --> A3
-
-A3 --> A3.1[logica mana, 2 gg]
-A3.1 --> A3.2[visualizzazione mana, 1 gg]
-A3.2 --> A3.3[test mana, 1 gg]
-
-4.1.1.1 --> FG4[Filippo G]
-4.1.2.1 --> FG4
-4.1.3.1 --> FG4
-4.1.4.1 --> FG4
-4.1.4.2 --> FG4
-
-FG4 --> FG4.1[logica gestione home menu - start, exit, social, 1 gg]
-FG4.1 --> FG4.2[logica gestione impostazioni, 2 gg]
-FG4.2 --> FG4.3[test home menu, 1 gg]
-
-4.1.1.2 --> L4[Luca]
-4.1.2.2 --> L4
-4.1.3.2 --> L4
-4.1.5.1 --> L4
-
-L4 --> L4.1[asset per menu home, 2 gg]
-L4.1 --> L4.2[pagine social vuote x link, 2h]
-
-4.2.1.1 --> S4[Silvia]
-4.2.1.2 --> S4
-4.2.2.1 --> S4
-4.2.2.2 --> S4
-4.2.3.1.1 --> S4
-4.2.3.2.1 --> S4
-4.2.4.1 --> S4
-4.2.4.2 --> S4
-4.2.4.3 --> S4
-4.2.5.1.1 --> S4
-4.2.5.2.1 --> S4
-
-S4 --> S4.1[logica gestione mappa, 1 gg]
-S4.1 --> S4.2[visualizzazione inventario, 2 gg]
-S4.2 --> S4.3[visualizzazione equipaggiamenti, 2 gg]
-S4.3 --> S4.4[gestione impostazioni, 4h]
-S4.4 --> S4.5[logica bottone exit, 4h]
-S4.5 --> S4.6[visualizzazione task prec, 2 gg]
-S4.6 --> S4.7[test, 2 gg]
-
-4.2.1.3 --> L42[Luca, art 2D schermata di pausa, 2 gg]
-4.2.2.3 --> L42
-4.2.4.4 --> L42
-4.2.5.3 --> L42
-
-4.2.6.1 --> L42
-4.2.6.2 --> L42
-4.2.6.3 --> L42
-
-4.2.7.1 --> FP4[Filippo P, animazioni cambio menu, 1 gg]
-
-4.3.4.1 --> A4[Anny]
-4.3.1.1 --> A4
-4.3.2.1 --> A4
-4.3.2.2 --> A4
-4.3.3.1 --> A4
-4.3.4.2.1 --> A4
-4.3.4.2.2 --> A4
-4.3.4.2.3 --> A4
-4.3.6 --> A4
-4.3.7.1 --> A4
-4.3.7.2 --> A4
-4.3.8.1 --> A4
-4.3.8.2 --> A4
-4.3.9 --> A4
-
-A4 --> A4.1[HUD ingresso al livello, 1 gg]
-A4.1 --> A4.2[effetti di danno + effetti transizione, 1 gg]
-A4.2 --> A4.3[visualizzazione boss bar, 1 gg]
-A4.3 --> A4.4[test, 2 gg]
-
-5.1 --> FG5[Filippo G]
-5.2 --> FG5
-
-FG5 --> FG5.1[logica per movimento protagonista, 1 gg]
-FG5.1 --> FG5.2[test movimento protagonista, 1 gg]
-
-6 --> 6.1 --> S6[Silvia]
-6 --> 6.2 --> S6
-
-S6 --> S6.1[logica per orientamento protagonista, 1 gg]
-S6.1 --> S6.2[test orientamento protagonista, 1 gg]
-
-7.1 --> 7.1.1 --> A7[Anny]
-7.1 --> 7.1.2 --> A7
-7.1 --> 7.1.3 --> A7
-7 --> 7.2
-7.2 --> 7.2.1 --> A71[Anny]
-7.2 --> 7.2.2 --> A71
-7.2 --> 7.2.3 --> A71
-
-A7 --> A7.1[logica risoluzione effetto base, 3 gg]
-A7.1 --> A7.2[test risoluzione effetto base, 1 gg]
-A7.2 --> A7.3[logica visualizzazione risoluzione effetto base, 1 gg]
-
-A71 --> A71.1[logica risoluzione effetto speciale, 1 gg]
-A71.1 --> A71.2[test risoluzione effetto speciale, 1 gg]
+| 1  | Asset vita protagonista | 1 gg | Luca |
+| 2  | Logica vita protagonista | 2 gg | Filippo G |
+| 3  | viz vita protagonista | 1 gg | Filippo G |
+| 4  | test vita prot | 1 gg | Filippo G |
+| 5  | animazione flinching | 1 gg | Filippo P |
+| 6  | art status effect | 2 gg | Filippo P |
+| 7  | logica status effect - vita + mov | 2 gg | Silvia |
+| 8  | logica status effect - arma | 2 gg | Silvia |
+| 9  | viz status effect | 1 gg | Silvia |
+| 10 | test status effect | 1 gg | Silvia |
+| 11 | asset 2D x mana prot | 1 gg | Luca |
+| 12 | logica mana | 2 gg | Anny |
+| 13 | viz mana | 1 gg | Anny |
+| 14 | test mana | 1 gg | Anny |
+| 15 | logica gestione home menu - start, exit, social | 1 gg | Filippo G |
+| 16 | logica gestione impostazioni | 2 gg | Filippo G |
+| 17 | test home menu | 1 gg | Filippo G |
+| 18 | asset per menu home | 2 gg | Luca |
+| 19 | pagine social vuote x link | 2h | Luca |
+| 21 | logica gestione mappa | 1 gg | Silvia |
+| 22 | viz inventario | 2 gg | Silvia |
+| 23 | viz equipaggiamenti | 2 gg | Silvia |
+| 24 | gestione impostazioni | 4h | Silvia |
+| 25 | logica bottone exit | 4h | Silvia |
+| 26 | viz pause menu | 2 gg | Silvia |
+| 27 | test pause menu | 2 gg | Silvia |
+| 28 | art 2D pause menu | 2 gg | Luca |
+| 29 | animazioni cambio menu | 1 gg | Filippo P |
+| 30 | HUD ingresso livello | 1 gg | Anny |
+| 31 | effetti di danno + effetti tranisizione | 1 gg | Anny |
+| 32 | viz boss bar | 1 gg | Anny |
+| 33 | test HUD | 2 gg | Anny |
+| 34 | logica movimento prot | 1 gg | Filippo G |
+| 35 | test movimento prot | 1 gg | Filippo G |
+| 36 | logica orientamento prot | 1 gg | Silvia |
+| 37 | test orientamento prot | 1 gg | Silvia |
+| 38 | logica risoluzione effetto base | 3 gg | Anny |
+| 39 | test risoluzione effetto base | 1 gg | Anny |
+| 40 | viz risoluzioene effetto base | 1 gg | Anny |
+| 41 | logica risoluzione effetto speciale | 1 gg | Anny |
+| 42 | test risoluzione effetto speciale | 1 gg | Anny |
+| 43 | viz risoluzione effetto speciale | 1 gg | Anny |
 
 8.1 --> 8.1.1 --> F8[Filippo G]
 8.1 --> 8.1.2 --> F8
