@@ -24,6 +24,7 @@ Tutto il team:
 - [Analisi dei requisiti](../scoping/requirement-analysis.md)
 - [POS](../scoping/POS.md)
 - [Meeting 6](./meeting-6.md)
+- [Gestione delle risorse](../planning/resource-management.md)
 
 ## :material-note-text: **Note**  
 

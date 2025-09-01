@@ -23,6 +23,7 @@ Tutto il team:
 - [RBS](../scoping/RBSs/building-requirements.md)
 - [Analisi dei requisiti](../scoping/requirement-analysis.md)
 - [POS](../scoping/POS.md)
+- [Gestione delle risorse](../planning/resource-management.md)
 
 ## :material-note-text: **Note**  
 

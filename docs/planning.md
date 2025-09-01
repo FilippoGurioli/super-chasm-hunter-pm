@@ -64,6 +64,12 @@ Il PDS è articolato in tre sotto-documenti principali:
 - **Technical Design Document (TDD)**  
   Sviluppato dal CTO sulla base di POS, RBS, GDD e Art Bible. Definisce architettura tecnica, tecnologie, testing, pipeline di sviluppo e scelte implementative.
 
+## Resource Management Plan
+
+Durante la fase di pianificazione è stata effettuata l'analisi delle risorse necessarie per l'iterazione. Nella fattispecie si sono analizzate e stimate le risorse materiali, le risorse umane e le competenze necessarie per ciascuna attività.
+
+- [Resource Management](./appendices/planning/resource-management.md)
+
 ## Work Breakdown Structure (WBS)
 
 Per redigere la WBS il team ha seguito un approccio strutturato come segue:
@@ -77,13 +83,6 @@ Una volta fatto ciò, il team si raduna per stabilire un ordine di priorità di 
 Il documento risultante è il seguente:
 
 - [WBS](./appendices/planning/WBS.md)
-
-## Resource Management Plan
-
-Durante la fase di pianificazione è stata effettuata l'analisi delle risorse necessarie per l'iterazione. Nella fattispecie si sono analizzate e stimate le risorse materiali, le risorse umane e le competenze necessarie per ciascuna attività. Una volta completata la stima delle risorse materiali è anche stata redatta una cashflow management table.
-
-- [Resource Management](./appendices/planning/resource-management.md)
-- [Cashflow Management](./appendices/planning/cashflow-management.md)
 
 ## Project Network Diagram e Gantt Chart
 
