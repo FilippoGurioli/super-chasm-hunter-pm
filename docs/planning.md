@@ -79,11 +79,9 @@ Per redigere la WBS il team ha seguito un approccio strutturato come segue:
 
 1. si formano diversi gruppi all'interno del team, ciascuno responsabile di un sottoinsieme di requisiti (i.e. _subteam approach_).
 2. Ogni team deve analizzare tutti i nodi foglia del sottoalbero del RBS assegnatogli.
-3. Ogni nodo analizzato deve portare a 1 o più task operativi da svolgere.
+3. Dall'analisi dei nodi i gruppi devono estrarre una serie di task operativi.
 
-Una volta fatto ciò, il team si è radunato per stabilire un ordine di priorità di ogni task seguendo la filosofia _MoSCoW_. Successivamente, si è sfruttato il _metodo Delphi_ per decidere le stime di tempo di ogni task.
-
-Unendo tutte le informazioni ottenute, si è quindi potuto redigere il PND e Gantt Chart.
+Successivamente, si è sfruttato il _metodo Delphi_ per decidere le stime di tempo di ogni task. Unendo tutte le informazioni ottenute, si è quindi potuto redigere il PND e Gantt Chart.
 
 **Nota**: per calcolare le stime sopra citate sono stati adottati due approcci diversi: per la stima del lavoro si è adottato il _giudizio dell'esperto_, mentre per la stima del tempo si è utilizzato il _metodo Delphi_. Questa decisione è stata presa per tre ragioni:
 
