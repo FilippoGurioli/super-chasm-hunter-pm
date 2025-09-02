@@ -1,8 +1,8 @@
 # Pianificazione
 
-Dopo l'accettazione del progetto, la fase di pianificazione ha l'obiettivo di tradurre i requisiti iniziali in un piano operativo dettagliato, con l'intento di ridurre i rischi e massimizzare le probabilità di successo.  
+Dopo l'accettazione del progetto, la fase di pianificazione ha l'obiettivo di tradurre i requisiti iniziali in un piano operativo dettagliato, con l'intento di ridurre i rischi e massimizzare le probabilità di successo.
 
-I principali *deliverable* di questa fase includono:
+I principali _deliverable_ di questa fase includono:
 
 - **Project Definition Statement (PDS)**: composto da Game Design Document (GDD), Art Bible e Technical Design Document (TDD);
 - **Work Breakdown Structure (WBS)**: traduce i requisiti (RBS) in task operativi;
@@ -12,10 +12,11 @@ I principali *deliverable* di questa fase includono:
 - **Risk Management Plan**: identifica, analizza e pianifica le risposte ai rischi;
 - **Project Proposal**: documento di sintesi che definisce obiettivi, risorse e tempi di realizzazione.
 
-La documentazione è elaborata attraverso *Joint Project Planning Sessions* tra i membri del team.
+La documentazione è elaborata attraverso _Joint Project Planning Sessions_ tra i membri del team.
 
 - [Meeting 5](./appendices/meetings/meeting-5.md)
 - [Meeting 6](./appendices/meetings/meeting-6.md)
+- [Meeting 7](./appendices/meetings/meeting-7.md)
 
 ## Gestione del cambiamento
 
@@ -51,7 +52,7 @@ Ogni iterazione porta anche al raggiungimento di una milestone. Le milestone son
 
 ## Project Definition Statement (PDS)
 
-Il **PDS** raccoglie le specifiche di dettaglio necessarie per l'esecuzione del progetto. Durante la fase di *Execution*, il team ha fatto riferimento a questo documento per definire *come* realizzare ciascun requisito.
+Il **PDS** raccoglie le specifiche di dettaglio necessarie per l'esecuzione del progetto. Durante la fase di _Execution_, il team ha fatto riferimento a questo documento per definire _come_ realizzare ciascun requisito.
 
 Il PDS è articolato in tre sotto-documenti principali:
 
@@ -70,38 +71,33 @@ Durante la fase di pianificazione è stata effettuata l'analisi delle risorse ne
 
 - [Resource Management](./appendices/planning/resource-management.md)
 
-## Work Breakdown Structure (WBS)
+## Strumenti di pianificazione
+
+Data la già alta precisione con cui certi requisiti sono stati definiti, il team ha deciso di redigere la WBS in modo particolare. La Work Breakdown Structure (WBS) non scompone maggiormente i requisiti (in quanto già dettagliati), al contrario, funge da "ponte" tra la RBS e il Project Network Diagram (PND).
 
 Per redigere la WBS il team ha seguito un approccio strutturato come segue:
 
-1. si formano diversi gruppi all'interno del team, ciascuno responsabile di un sottoinsieme di requisiti (i.e. *subteam approach*).
+1. si formano diversi gruppi all'interno del team, ciascuno responsabile di un sottoinsieme di requisiti (i.e. _subteam approach_).
 2. Ogni team deve analizzare tutti i nodi foglia del sottoalbero del RBS assegnatogli.
 3. Ogni nodo analizzato deve portare a 1 o più task operativi da svolgere.
 
-Una volta fatto ciò, il team si raduna per stabilire un ordine di priorità di ogni task seguendo la filosofia *MoSCoW*.
+Una volta fatto ciò, il team si è radunato per stabilire un ordine di priorità di ogni task seguendo la filosofia _MoSCoW_. Successivamente, si è sfruttato il _metodo Delphi_ per decidere le stime di tempo di ogni task.
 
-Il documento risultante è il seguente:
+Unendo tutte le informazioni ottenute, si è quindi potuto redigere il PND e Gantt Chart.
 
-- [WBS](./appendices/planning/WBS.md)
-
-## Project Network Diagram e Gantt Chart
-
-Una volta saputi tutti i task relativi a questa iterazione, il team ha proceduto con la stima del lavoro e del tempo necessario.
-
-Per stima del lavoro necessario si intende definire con dettaglio massimo in cosa consiste la task in analisi. Per stima del tempo invece si intende il tempo necessario per completare la task.
-
-Per calcolare le stime sopra citate sono stati adottati due approcci diversi: per la stima del lavoro si è adottato il *giudizio dell'esperto*, mentre per la stima del tempo si è utilizzato il *metodo Delphi*. Questa decisione è stata presa per tre ragioni:
+**Nota**: per calcolare le stime sopra citate sono stati adottati due approcci diversi: per la stima del lavoro si è adottato il _giudizio dell'esperto_, mentre per la stima del tempo si è utilizzato il _metodo Delphi_. Questa decisione è stata presa per tre ragioni:
 
 1. Il team crede che il modo migliore per stabilire la complessità di un'attività sia basarsi sull'esperienza di chi l'ha già svolta in passato.
-2. Una volta che tutto il team ne ha compreso la complessità, una stima della task tramite *metodo Delphi* risulta più accurata.
+2. Una volta che tutto il team ne ha compreso la complessità, una stima della task tramite _metodo Delphi_ risulta più accurata.
 3. Per perseguire al meglio l'obiettivo di accumulare esperienza, il team si sottopone di sua volontà a quante più strategie possibili, al fine di poterne valutare pregi e difetti in prima persona.
 
-Una volta che ogni task ha un ID, una descrizione, una stima del lavoro e una stima del tempo, il team ha proceduto a costruire Project Network Diagram e, di conseguenza, anche il Gantt Chart.
+I documenti risultanti sono i seguenti:
 
+- [WBS](./appendices/planning/WBS.md)
 - [Project Network Diagram](./appendices/planning/PND.md)
 - [Gantt Chart](./appendices/planning/gantt.md)
 
-Durante le analisi e le stime si è anche accumulata una *scope bank* pari ad una maggiorazione del 20%. Questa servirà in fase di esecuzione dell'iterazione per gestire eventuali imprevisti o cambiamenti di requisiti.
+Durante le analisi e le stime si è anche accumulata una _scope bank_ pari ad una maggiorazione del 20%. Questa servirà in fase di esecuzione dell'iterazione per gestire eventuali imprevisti o cambiamenti di requisiti.
 
 ## Project Proposal
 
@@ -119,4 +115,4 @@ Questo è stato sottoposto nel [Joint Project Planning Session finale](./appendi
 
 ## Lancio
 
-Dopo l'accettazione del Project Proposal, il team procederà con il lancio dell'iterazione. Verranno definiti i tool e i template necessari per l'esecuzione. Verranno anche definite le regole operative del team e le modalità di comunicazione. Infine, verranno assegnate le risorse e finalizzata la schedula dell'iterazione. 
+Dopo l'accettazione del Project Proposal, il team procederà con il lancio dell'iterazione. Verranno definiti i tool e i template necessari per l'esecuzione. Verranno anche definite le regole operative del team e le modalità di comunicazione. Infine, verranno assegnate le risorse e finalizzata la schedula dell'iterazione.

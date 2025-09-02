@@ -4,34 +4,34 @@
 
 scoping meeting
 
-## :material-format-list-numbered: **Scaletta** 
+## :material-format-list-numbered: **Scaletta**
 
 - RBS
 - PMLC
 
-## :material-account-group: **Partecipanti**  
+## :material-account-group: **Partecipanti**
 
-- Tutto il team 
+- Tutto il team
   - Filippo G
   - Silvia
   - Luca
   - Filippo P
   - Anny
 
-## :material-paperclip: **Documentazione allegata**  
+## :material-paperclip: **Documentazione allegata**
 
 - meeting 1
 - meeting 2
 
 ---
 
-## :material-note-text: **Note**  
+## :material-note-text: **Note**
 
-**Categorizzazione RBS**
+### Categorizzazione RBS
 
 Ogni singolo requisito deve essere categorizzato secondo il livello di dettaglio e la tipologia.
 
-**Legenda:** 
+**Legenda:**
 
 - dettaglio requisito
   - \[V\] = verde | conoscenza completa e dettagliata
@@ -43,7 +43,7 @@ Ogni singolo requisito deve essere categorizzato secondo il livello di dettaglio
   - \[GL\] = globale | descrivono i requisiti di più alto livello tra quelli inclusi nel prodotto. Possono essere visti come dei requisiti generali
   - \[C\] = vincolo progetto | sono quei requisiti che, in superficie, sono assimilabili ai vincoli di progettazione o ai vincoli di progetto
 
-**RBS**
+### RBS
 
 Creare un videogioco con caratteristiche rogue like, rpg e building che permetta di far accumulare esperienza al team nel settore videoludico, lanciare il primo prodotto nel mercato e fornire una base economica minimale per l'apertura dell'azienda.
 
@@ -52,176 +52,176 @@ Creare un videogioco con caratteristiche rogue like, rpg e building che permetta
    2. monitorare l'execution in modo da apportare modifiche per rimanere in schedule \[GI | C\]
 2. caratteristiche action rpg, rogue-like e building del videogioco \[V | GL\]
    1. implementare caratteristiche rpg \[V | GL\]
-       1. vita del giocatore (a cuori) \[V | F\]
-          1. art dei vari oggetti che riguardano la vita \[V | F\]
-             1. sfondo \[V | F\]
-             2. cuore pieno \[V | F\]
-             3. cuore vuoto \[V | F\]
-             4. quarti di cuore \[V | F\]
-          2. implementazione logica a cuori \[V | F\]
-             1. reazione al danno \[V | F\]
-                1. perdita di tutti i quarti che non riempiono un cuore \[V | F\]
-                2. perdita di 1 cuore \[V | F\]
-                3. impossibilità di movimento \[V | F\]
-             2. reazione alle cure \[V | F\]
-                1. recupero di 1 o più quarti di cuore \[V | F\]
-             3. damage cooldown \[V | F\]
-                1. dopo aver subito danno ci sarà un lasso di tempo di invincibilità per il player \[V | F\]
-          3. animazioni \[GI | GL\]
-             1. ricezione danno \[GI | F\]
-       2. status effect \[V | F\]
-          1. stato applicato al giocatore \[V | GL\]
-          2. ha una durata di tempo \[V | F\]
-          3. categorie \[V | F\]
-             1. effetto risolto all'inizio del lasso di tempo \[V | F\]
-                1. alla fine riapplica l'effetto al contrario \[V | F\]
-             2. effetto risolto lungo tutto il lasso di tempo \[V | F\]
-          4. art \[V | F\]
-          5. logica \[V | F\]
-             1. sia assoluti che percentuali \[V | F\]
-             2. guadagno/perdita di vita \[V | F\]
-             3. guadagno/perdita di vita massima \[V | F\]
-             4. guadagno/perdita danno dell'arma impugnata \[V | F\]
-             5. guadagno/perdita della velocità di movimento \[V | F\]
-             6. guadagno/perdita della velocità di recupero mana \[V | F\]
-       3. mana del giocatore \[V | F\]
-          1. art \[V | F\]
-             1. background \[V | F\]
-             2. icona mana vuota \[V | F\]
-             3. icona mana piena \[V | F\]
-             4. icona mana in caricamento \[V | F\]
-          2. logica \[V | F\]
-             1. contatore con un valore massimo \[V | F\]
-             2. parte al valore massimo \[V | F\]
-             3. si ricarica ad una velocità costante \[V | F\]
-             4. si consuma quando la risoluzione di un effetto di un item richiede mana \[V | F\]
-       4. schermate di pausa/home/HUD \[V | F\]
-          1. schermata home \[V | F\]
-             1. bottone di start \[V | F\]
-                1. logica \[V | F\]
-                2. art \[V | F\]
-             2. bottone impostazioni \[V | F\]
-                1. logica \[V | F\]
-                2. art \[V | F\]
-             3. bottone uscita \[V | F\]
-                1. logica \[V | F\]
-                2. art \[V | F\]
-             4. bottoni link social \[V | F\]
-                1. Discord \[V | F\]
-                2. Linktree \[V | F\]
-             5. sfondo \[V | F\]
-                1. animazione dello sfondo \[V | F\]
-          2. schermata pausa \[V | F\]
-             1. menù mappa \[V | F\]
-                1. visualizzazione mappa zone esplorate (se nel chasm) \[V | F\]
-                2. assente se nell'overworld \[V | F\]
-                3. art \[V | F\]
-             2. menù items \[V | F\]
-                1. descrizione degli item in inventario \[V | F\]
-                2. caratteristiche item in inventario \[V | F\]
-                3. art \[V | F\]
-             3. menù equipaggiamenti \[V | F\]
-                1. visualizzazione slot vestito \[V | F\]
-                   1. informazioni relative al vestito \[V | F\]
-                2. visualizzazione slot reliquia \[V | F\]
-                   1. informazioni relative alla reliquia \[V | F\]
-             4. menù impostazioni \[V | F\]
-                1. modifica impostazioni di suono \[V | F\]
-                2. modifica impostazioni dei comandi \[V | F\]
-                3. modifica impostazioni dello schermo \[V | F\]
-                4. art \[V | F\]
-             5. bottone esci \[V | F\]
-                1. esci dal chasm (se nel chasm) \[V | F\]
-                   1. perdita dei progressi \[V | F\]
-                2. esci dal gioco (se nell'overworld) \[V | F\]
-                   1. salvataggio dei progressi \[V | F\]
-                3. art \[V | F\]
-             6. art \[V | F\]
-                1. background \[V | F\]
-                2. bottoni \[V | F\]
-                3. icone \[V | F\]
-             7. animazioni \[GI | GL\]
-                1. animazione di cambio menù \[GI | F\]
-          3. HUD \[V | F\]
-             1. vita \[V | F\]
-                1. visualizzare la vita del player \[V | F\]
-             2. inventario \[V | F\]
-                1. visualizzazione di tutto l'inventario \[V | F\]
-                2. visualizzazione dell'item correntemente impugnato \[V | F\]
-             3. mana \[V | F\]
-                1. visualizzazione del mana corrente \[V | F\]
-             4. ingresso al livello \[V | F\]
-                1. all'inizio del gioco e dopo ogni cambio livello \[V | F\]
-                2. descrizione dell'ambiente \[V | F\]
-                   1. nome dell'ambiente \[V | F\]
-                   2. numero del livello (parte da 1 e va su per ogni livello passato) \[V | F\]
-                   3. flavour text \[V | F\]
-             5. status effect \[V | F\]
-             6. effetti di danno subito \[V | F\]
-             7. effetti di transizione \[V | F\]
-                1. tra una scena e l'altra \[V | F\]
-                2. tra una stanza e l'altra \[V | F\]
-             8. boss bar \[V | F\]
-                1. presente solo se in vicinanza di un boss \[V | F\]
-                2. visualizza la vita corrente del boss \[V | F\]
-             9. denaro corrente \[V | F\]
-       5. sistema di movimento \[V | F\]
-          1. movimento a 4 direzioni \[V | F\]
-          2. muove il player nella direzione corrispondente (N, S, W, E) \[V | F\]
-       6. sistema di orientamento \[V | F\]
-          1. basato sulla posizione del mouse \[V | F\]
-          2. il player deve sempre guardare in direzione del mouse \[V | F\]
-       7. sistema di combattimento \[V | F\]
-          1. al click sinistro del mouse si risolve l'effetto base dell'item impugnato \[V | F\]
-             1. applicazione di tutti gli status effect relativi all'effetto base \[V | F\]
-             2. rimozione delle risorse necessarie alla risoluzione dell'effetto base \[V | F\]
-             3. applicazione dell'effetto base \[V | F\]
-          2. al click destro del mouse si risolve l'effetto speciale dell'item impugnato \[V | F\]
-             1. applicazione di tutti gli status effect relativi all'effetto speciale \[V | F\]
-             2. rimozione delle risorse necessarie alla risoluzione dell'effetto speciale \[V | F\]
-             3. applicazione dell'effetto speciale \[V | F\]
-       8. salvataggio di gioco \[V | F\]
-          1. logica di *quando* si può salvare \[V | F\]
-             1. perdita dei progressi se si muore/perde nel Chasm \[V | F\]
-             2. mantenimento dei dati se si esce dal Chasm vivi \[V | F\]
-             3. salvataggio tramite menu fuori dal Chasm \[V | F\]
-          2. logica di *cosa* si deve salvare \[V | F\]
-             1. inventario \[V | F\]
-                1. tutti gli item \[V | F\]
-                   1. nome \[V | F\]
-                   2. effetto \[V | F\]
-                   3. quantità \[V | F\]
-                2. l'item correntemente impugnato \[V | F\]
-             2. vita corrente \[V | F\]
-                1. vita attuale \[V | F\]
-                2. vita massima \[V | F\]
-             3. mana corrente \[V | F\]
-                1. mana attuale \[V | F\]
-                2. mana massimo \[V | F\]
-             4. oggetti piazzati nell'overworld \[V | F\]
-                1. nome \[V | F\]
-                2. orientamento \[V | F\]
-             5. data in gioco (*in-game date*) \[V | F\]
-       9. negozi \[GI | GL\]
-          1. sono sia nell'overworld che nel chasm \[GI | F\]
-          2. mercante \[GI | GL\]
-             1. ci interagisci per vendere item \[GI | F\]
-                1. aggiunge il valore al denaro in possesso dal player \[V | F\]
-                2. rimuove l'item all'inventario del player \[V | F\]
-             2. mercanti diversi possono fare offerte diverse \[GI | F\]
-             3. mostrano un dialogo interattivo per accettare/rifiutare l'offerta \[GI | F\]
-             4. art \[V | F\]
-                1. art del mercante \[V | F\]
-                2. art del dialogo \[V | F\]
-          3. mercanzia \[GI | F\]
-             1. espone gli articoli in vendita \[GI | F\]
-             2. ci interagisci \[V | F\]
-                1. compri uno degli oggetti in vendita \[GI | F\]
-             3. gli item in vendita possono \[GI | GL\]
-                1. essere infinitamente acquistabili \[GI | F\]
-                2. essere acquistabili una sola volta \[GI | F\]
-          4. può essere aperto o chiuso \[GI | F\]
-             1. dipende dal giorno \[GI | F\]
+      1. vita del giocatore (a cuori) \[V | F\]
+         1. art dei vari oggetti che riguardano la vita \[V | F\]
+            1. sfondo \[V | F\]
+            2. cuore pieno \[V | F\]
+            3. cuore vuoto \[V | F\]
+            4. quarti di cuore \[V | F\]
+         2. implementazione logica a cuori \[V | F\]
+            1. reazione al danno \[V | F\]
+               1. perdita di tutti i quarti che non riempiono un cuore \[V | F\]
+               2. perdita di 1 cuore \[V | F\]
+               3. impossibilità di movimento \[V | F\]
+            2. reazione alle cure \[V | F\]
+               1. recupero di 1 o più quarti di cuore \[V | F\]
+            3. damage cooldown \[V | F\]
+               1. dopo aver subito danno ci sarà un lasso di tempo di invincibilità per il player \[V | F\]
+         3. animazioni \[GI | GL\]
+            1. ricezione danno \[GI | F\]
+      2. status effect \[V | F\]
+         1. stato applicato al giocatore \[V | GL\]
+         2. ha una durata di tempo \[V | F\]
+         3. categorie \[V | F\]
+            1. effetto risolto all'inizio del lasso di tempo \[V | F\]
+               1. alla fine riapplica l'effetto al contrario \[V | F\]
+            2. effetto risolto lungo tutto il lasso di tempo \[V | F\]
+         4. art \[V | F\]
+         5. logica \[V | F\]
+            1. sia assoluti che percentuali \[V | F\]
+            2. guadagno/perdita di vita \[V | F\]
+            3. guadagno/perdita di vita massima \[V | F\]
+            4. guadagno/perdita danno dell'arma impugnata \[V | F\]
+            5. guadagno/perdita della velocità di movimento \[V | F\]
+            6. guadagno/perdita della velocità di recupero mana \[V | F\]
+      3. mana del giocatore \[V | F\]
+         1. art \[V | F\]
+            1. background \[V | F\]
+            2. icona mana vuota \[V | F\]
+            3. icona mana piena \[V | F\]
+            4. icona mana in caricamento \[V | F\]
+         2. logica \[V | F\]
+            1. contatore con un valore massimo \[V | F\]
+            2. parte al valore massimo \[V | F\]
+            3. si ricarica ad una velocità costante \[V | F\]
+            4. si consuma quando la risoluzione di un effetto di un item richiede mana \[V | F\]
+      4. schermate di pausa/home/HUD \[V | F\]
+         1. schermata home \[V | F\]
+            1. bottone di start \[V | F\]
+               1. logica \[V | F\]
+               2. art \[V | F\]
+            2. bottone impostazioni \[V | F\]
+               1. logica \[V | F\]
+               2. art \[V | F\]
+            3. bottone uscita \[V | F\]
+               1. logica \[V | F\]
+               2. art \[V | F\]
+            4. bottoni link social \[V | F\]
+               1. Discord \[V | F\]
+               2. Linktree \[V | F\]
+            5. sfondo \[V | F\]
+               1. animazione dello sfondo \[V | F\]
+         2. schermata pausa \[V | F\]
+            1. menù mappa \[V | F\]
+               1. visualizzazione mappa zone esplorate (se nel chasm) \[V | F\]
+               2. assente se nell'overworld \[V | F\]
+               3. art \[V | F\]
+            2. menù items \[V | F\]
+               1. descrizione degli item in inventario \[V | F\]
+               2. caratteristiche item in inventario \[V | F\]
+               3. art \[V | F\]
+            3. menù equipaggiamenti \[V | F\]
+               1. visualizzazione slot vestito \[V | F\]
+                  1. informazioni relative al vestito \[V | F\]
+               2. visualizzazione slot reliquia \[V | F\]
+                  1. informazioni relative alla reliquia \[V | F\]
+            4. menù impostazioni \[V | F\]
+               1. modifica impostazioni di suono \[V | F\]
+               2. modifica impostazioni dei comandi \[V | F\]
+               3. modifica impostazioni dello schermo \[V | F\]
+               4. art \[V | F\]
+            5. bottone esci \[V | F\]
+               1. esci dal chasm (se nel chasm) \[V | F\]
+                  1. perdita dei progressi \[V | F\]
+               2. esci dal gioco (se nell'overworld) \[V | F\]
+                  1. salvataggio dei progressi \[V | F\]
+               3. art \[V | F\]
+            6. art \[V | F\]
+               1. background \[V | F\]
+               2. bottoni \[V | F\]
+               3. icone \[V | F\]
+            7. animazioni \[GI | GL\]
+               1. animazione di cambio menù \[GI | F\]
+         3. HUD \[V | F\]
+            1. vita \[V | F\]
+               1. visualizzare la vita del player \[V | F\]
+            2. inventario \[V | F\]
+               1. visualizzazione di tutto l'inventario \[V | F\]
+               2. visualizzazione dell'item correntemente impugnato \[V | F\]
+            3. mana \[V | F\]
+               1. visualizzazione del mana corrente \[V | F\]
+            4. ingresso al livello \[V | F\]
+               1. all'inizio del gioco e dopo ogni cambio livello \[V | F\]
+               2. descrizione dell'ambiente \[V | F\]
+                  1. nome dell'ambiente \[V | F\]
+                  2. numero del livello (parte da 1 e va su per ogni livello passato) \[V | F\]
+                  3. flavour text \[V | F\]
+            5. status effect \[V | F\]
+            6. effetti di danno subito \[V | F\]
+            7. effetti di transizione \[V | F\]
+               1. tra una scena e l'altra \[V | F\]
+               2. tra una stanza e l'altra \[V | F\]
+            8. boss bar \[V | F\]
+               1. presente solo se in vicinanza di un boss \[V | F\]
+               2. visualizza la vita corrente del boss \[V | F\]
+            9. denaro corrente \[V | F\]
+      5. sistema di movimento \[V | F\]
+         1. movimento a 4 direzioni \[V | F\]
+         2. muove il player nella direzione corrispondente (N, S, W, E) \[V | F\]
+      6. sistema di orientamento \[V | F\]
+         1. basato sulla posizione del mouse \[V | F\]
+         2. il player deve sempre guardare in direzione del mouse \[V | F\]
+      7. sistema di combattimento \[V | F\]
+         1. al click sinistro del mouse si risolve l'effetto base dell'item impugnato \[V | F\]
+            1. applicazione di tutti gli status effect relativi all'effetto base \[V | F\]
+            2. rimozione delle risorse necessarie alla risoluzione dell'effetto base \[V | F\]
+            3. applicazione dell'effetto base \[V | F\]
+         2. al click destro del mouse si risolve l'effetto speciale dell'item impugnato \[V | F\]
+            1. applicazione di tutti gli status effect relativi all'effetto speciale \[V | F\]
+            2. rimozione delle risorse necessarie alla risoluzione dell'effetto speciale \[V | F\]
+            3. applicazione dell'effetto speciale \[V | F\]
+      8. salvataggio di gioco \[V | F\]
+         1. logica di _quando_ si può salvare \[V | F\]
+            1. perdita dei progressi se si muore/perde nel Chasm \[V | F\]
+            2. mantenimento dei dati se si esce dal Chasm vivi \[V | F\]
+            3. salvataggio tramite menu fuori dal Chasm \[V | F\]
+         2. logica di _cosa_ si deve salvare \[V | F\]
+            1. inventario \[V | F\]
+               1. tutti gli item \[V | F\]
+                  1. nome \[V | F\]
+                  2. effetto \[V | F\]
+                  3. quantità \[V | F\]
+               2. l'item correntemente impugnato \[V | F\]
+            2. vita corrente \[V | F\]
+               1. vita attuale \[V | F\]
+               2. vita massima \[V | F\]
+            3. mana corrente \[V | F\]
+               1. mana attuale \[V | F\]
+               2. mana massimo \[V | F\]
+            4. oggetti piazzati nell'overworld \[V | F\]
+               1. nome \[V | F\]
+               2. orientamento \[V | F\]
+            5. data in gioco (_in-game date_) \[V | F\]
+      9. negozi \[GI | GL\]
+         1. sono sia nell'overworld che nel chasm \[GI | F\]
+         2. mercante \[GI | GL\]
+            1. ci interagisci per vendere item \[GI | F\]
+               1. aggiunge il valore al denaro in possesso dal player \[V | F\]
+               2. rimuove l'item all'inventario del player \[V | F\]
+            2. mercanti diversi possono fare offerte diverse \[GI | F\]
+            3. mostrano un dialogo interattivo per accettare/rifiutare l'offerta \[GI | F\]
+            4. art \[V | F\]
+               1. art del mercante \[V | F\]
+               2. art del dialogo \[V | F\]
+         3. mercanzia \[GI | F\]
+            1. espone gli articoli in vendita \[GI | F\]
+            2. ci interagisci \[V | F\]
+               1. compri uno degli oggetti in vendita \[GI | F\]
+            3. gli item in vendita possono \[GI | GL\]
+               1. essere infinitamente acquistabili \[GI | F\]
+               2. essere acquistabili una sola volta \[GI | F\]
+         4. può essere aperto o chiuso \[GI | F\]
+            1. dipende dal giorno \[GI | F\]
       10. denaro \[V | F\]
           1. ha un valore massimo \[V | F\]
           2. non può scendere sotto zero \[V | F\]
@@ -232,7 +232,7 @@ Creare un videogioco con caratteristiche rogue like, rpg e building che permetta
       11. munizioni \[V | F\]
           1. ha un valore massimo \[V | F\]
           2. non può scendere sotto zero \[V | F\]
-          3. aumenta quando il player *trova* altre munizioni \[V | F\]
+          3. aumenta quando il player _trova_ altre munizioni \[V | F\]
              1. raccoglie \[V | F\]
              2. compra \[V | F\]
              3. crea \[R | F\]
@@ -451,23 +451,24 @@ Creare un videogioco con caratteristiche rogue like, rpg e building che permetta
          2. aggiunta di componenti che sfruttino le feature già presenti (low effort, high revenue) \[V | C\]
       3. continuare a mantenere vivi i canali di comunicazione agli stakeholders anche dopo la pubblicazione \[V | C\]
 
-**PMLC**
+### PMLC
 
 Analizzando RBS\* e POS\* il team è giunto alla conclusione che il Project Management Life Cycle che più si adatta a questo progetto è: **Iterativo**
 
 La scelta è dovuta ai seguenti fattori:
 
-- Obiettivi noti e stabili, ma requisiti instabili o incompleti. 
+- Obiettivi noti e stabili, ma requisiti instabili o incompleti.
 - Necessità di apprendere mentre si implementa, approfondendo la conoscenza delle necessità degli stakeholders (prima di tutto quelle relative al team come stakeholder).
 
 \* qui per RBS e POS si intendono le versioni ancora embrionali espresse durante i meeting. La decisione del PMLC potrà subire cambiamenti una volta costruiti RBS e POS, quanto espresso sopra rappresenta quanto detto durante il meeting.
 
-## :material-check: **Decisioni prese**  
+## :material-check: **Decisioni prese**
 
 - RBS
 - PMLC
 
-## Azioni ## :material-rocket-launch: **Azioni da fare**  
+## Azioni ## :material-rocket-launch: **Azioni da fare**
+
 da fare
 
 - Valutare se accettare il progetto
@@ -482,7 +483,7 @@ Si salta una settimana per necessità del PM di redigere RBS e POS derivanti dai
 
 17/07/25, 10 min
 
-## :material-account-group: **Partecipanti prossimo meeting**  
+## :material-account-group: **Partecipanti prossimo meeting**
 
 - Filippo G
 - Luca

@@ -13,7 +13,7 @@ Scoping meeting
 
 ## :material-account-group: Partecipanti
 
-- Tutto il team 
+- Tutto il team
   - Filippo G
   - Silvia
   - Luca
@@ -28,24 +28,24 @@ Meeting 1
 
 ## :material-note-text: Note
 
-**Ostacoli**
+### Ostacoli
 
 - è obbligatorio avere una partita IVA per pubblicare prodotti su Steam
 - alcune persone del team hanno altre attività quali università o lavoro che impediscono la partecipazione continuata
 - aderire alle policy di Steam
 
-**Analisi dei rischi**
+### Analisi dei rischi
 
-- tipologie: 
+- tipologie:
   - tecnico
   - project management
   - organizzazione
   - esterno
-- impatti 
+- impatti
   - alto
   - medio
   - basso
-- mitigazione 
+- mitigazione
   - accettare
   - evitare
   - piano di contingenza
@@ -53,7 +53,7 @@ Meeting 1
   - trasferire
 
 | ID  | Descrizione rischio                                           | Tipologia     | Impatto | Mitigazione          |
-|-----|---------------------------------------------------------------|---------------|---------|----------------------|
+| --- | ------------------------------------------------------------- | ------------- | ------- | -------------------- |
 | R1  | Unity ha rilasci frequenti portando a veloce obsolescenza     | Tecnico       | Medio   | Mitigare             |
 | R2  | Stima dell'effort può essere sbagliata data l'inesperienza    | Manageriale   | Alto    | Piano di contingenza |
 | R3  | Budget limitato può portare all'inattuabilità del progetto    | Organizzativo | Alto    | Piano di contingenza |
@@ -66,7 +66,7 @@ Meeting 1
 | R10 | Lavorare in tempi diversi può compromettere la comunicazione  | Manageriale   | Medio   | Evitare              |
 | R11 | Sviluppo di AI NPC può rallentare significativamente          | Tecnico       | Medio   | Trasferire           |
 
-**RBS**
+### RBS
 
 Creare un videogioco con caratteristiche rogue like, rpg e building che permetta di far accumulare esperienza al team nel settore videoludico, lanciare il primo prodotto nel mercato e fornire una base economica minimale per l'apertura dell'azienda.
 
@@ -86,9 +86,10 @@ Creare un videogioco con caratteristiche rogue like, rpg e building che permetta
    2. sfruttare gli sconti stagionali
    3. mantenere una community di almeno 2000 membri attivi per almeno 1 anno
 
-**SWOT**
+### SWOT
 
-### Strengths (Punti di forza)
+#### Strengths (Punti di forza)
+
 - **Genere e caratteristiche**: combinazione di rogue-like, RPG e building, attrattiva per nicchie di mercato specifiche.
 - **Team motivato**: composto da persone appassionate e con competenze di base nel settore videoludico.
 - **Esperienza accumulata**: progetto pensato per permettere al team di crescere tecnicamente e professionalmente.
@@ -96,20 +97,23 @@ Creare un videogioco con caratteristiche rogue like, rpg e building che permetta
 - **Prezzo competitivo**: 8,99€ è nella fascia bassa, riducendo la barriera d’ingresso per i giocatori e permettendo di raggiungere il break-even.
 - **Flessibilità e semplicità nella produzione**: progettato per essere sviluppato in tempi brevi con risorse limitate.
 
-### Weaknesses (Debolezze)
+#### Weaknesses (Debolezze)
+
 - **Team non full-time**: presenza non costante a causa di altri impegni (università/lavoro).
 - **Budget limitato**: 6.800€ totali tra costi fissi e variabili, con margine di rischio se le vendite non raggiungono le aspettative.
 - **Esperienza limitata del team**: possibilità di sottostimare effort e tempi di sviluppo.
 - **Dipendenza da strumenti e asset esterni**: rischio di rallentamenti o obsolescenza.
 
-### Opportunities (Opportunità)
+#### Opportunities (Opportunità)
+
 - **Crescita professionale del team**: acquisizione di competenze in Unity, Blender e sviluppo giochi.
 - **Validazione nel mercato**: primo prodotto che consente di testare l’interesse reale dei giocatori.
 - **Espansione futura**: possibilità di future pubblicazioni e promozioni su Steam grazie alla prima esperienza.
 - **Networking e collaborazione**: costruzione di relazioni con altre aziende del settore per progetti futuri.
 - **Attrattiva per nicchie di mercato**: rogue-like + RPG + building può differenziare il prodotto dai competitor.
 
-### Threats (Minacce)
+#### Threats (Minacce)
+
 - **Rischi tecnici**:
   - Rilascio frequente di nuove versioni di Unity (R1) → obsolescenza.
   - Sviluppo di AI NPC o asset complessi può rallentare il progetto (R5, R11).
@@ -136,7 +140,7 @@ Completare lo scoping meeting per decidere il PMLC e procedere alla fase di plan
 
 ## :material-account-group: Partecipanti prossimo meeting
 
-- Tutto il team 
+- Tutto il team
   - Filippo G
   - Silvia
   - Luca

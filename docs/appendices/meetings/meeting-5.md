@@ -4,29 +4,30 @@
 
 Joint Project Planning Session
 
-## :material-format-list-numbered: **Scaletta**  
+## :material-format-list-numbered: **Scaletta**
 
 - gestione del cambiamento
 - gestione del rischio
 - identificare iterazioni
 
-## :material-account-group: **Partecipanti**  
+## :material-account-group: **Partecipanti**
 
 Tutto il team:
+
 - Luca
 - Filippo G
 - Silvia
 - Filippo P
 - Anny
 
-## :material-paperclip: **Documentazione allegata**  
+## :material-paperclip: **Documentazione allegata**
 
 - [POS](../scoping/POS.md)
 - [Analisi dei rischi](../scoping/risk-analysis.md)
 
-## :material-note-text: **Note**  
+## :material-note-text: **Note**
 
-**Gestione del cambiamento**
+### Gestione del cambiamento
 
 Operazioni da svolgere:
 
@@ -38,11 +39,11 @@ se approvato:
 
 - comunicare il cambiamento
 - aggiornare la documentazione
-    - creare uno storico di quella precedente
-    - aggiornare la documentazione nella locazione ufficiale
+  - creare uno storico di quella precedente
+  - aggiornare la documentazione nella locazione ufficiale
 - monitorare l'implementazione del cambiamento
 
-**Gestione del rischio**
+### Gestione del rischio
 
 R1: Unity ha rilasci frequenti portando a veloce obsolescenza
 
@@ -120,22 +121,22 @@ Tecnico | Medio | Trasferire
 
 - Fare una procurement analysis
 
-**Iterazioni**
+### Iterazioni
 
 - Iterazione 0: Scoping + Planning
 - Iterazione 1: feature RPG (fondamenta del videogioco)
 - Iterazione 2: feature Rogue-like (esplorazione procedurale)
 - Iterazione 3: feature building (costruzione del mondo)
 - Iterazione 4: abbellimenti, testing (alfa + beta), produzione in massa di asset sfruttando le feature sviluppate
-- Iterazione 5: marketing, rilascio 
+- Iterazione 5: marketing, rilascio
 
-## :material-check: **Decisioni prese**  
+## :material-check: **Decisioni prese**
 
 - Gestione del cambiamento
 - Gestione del rischio
 - Iterazioni
 
-## :material-rocket-launch: **Azioni da fare**  
+## :material-rocket-launch: **Azioni da fare**
 
 - scrivere GDD, Art Bible e TDD
 - Procurement analysis
@@ -145,9 +146,10 @@ Tecnico | Medio | Trasferire
 
 24/07/2025 | 2h
 
-## :material-account-group: **Partecipanti prossimo meeting**  
+## :material-account-group: **Partecipanti prossimo meeting**
 
 Tutto il team:
+
 - Luca
 - Filippo G
 - Silvia

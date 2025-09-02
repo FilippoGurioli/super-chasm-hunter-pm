@@ -254,6 +254,7 @@ A7.2 --> A7.3[logica visualizzazione risoluzione effetto base, 1 gg]
 
 A71 --> A71.1[logica risoluzione effetto speciale, 1 gg]
 A71.1 --> A71.2[test risoluzione effetto speciale, 1 gg]
+A71.2 --> A71.3[logica visualizzazione risoluzione effetto speciale, 1 gg]
 
 0 --> 8
 8 --> 8.1
