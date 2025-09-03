@@ -1,7 +1,5 @@
 # Project Network Diagram
 
-Partendo dall'elenco di tutte le task identificate tramite _giudizio dell'esperto_ è possibile costruire il **Project Network Diagram (PND)**.
-
 ## Elenco delle attività
 
 | ID  | Nome                                            | Assegnatario | Durata | Early Start | Early Finish | Late Start | Late Finish | Slack |
@@ -68,18 +66,6 @@ Partendo dall'elenco di tutte le task identificate tramite _giudizio dell'espert
 | 60  | Test denaro                                     | Filippo G    | 1 gg   | 34.6        | 35.5         | 47         | 47          | 2.5   |
 | 61  | Munizioni                                       | Silvia       | 4 gg   | 43          | 46           | 43         | 46          | 0     |
 | 62  | Test munizioni                                  | Silvia       | 1 gg   | 47          | 47           | 47         | 47          | 0     |
-
-Giorni uomo totali: **146** giorni
-
-| Assegnatario | Giorni totali |
-| ------------ | ------------- |
-| Luca         | 8,5           |
-| Filippo G    | 33            |
-| Filippo P    | 13            |
-| Silvia       | 48            |
-| Anny         | 43            |
-
-Si noti che il lavoro è fortemente sblianciato verso la parte di sviluppo software per il fatto che questa iterazione non prevede grandi asset da sviluppare. Si stima che nelle iterazioni successive questo sbilanciamento tenderà dall'altra parte.
 
 ## Diagramma
 
@@ -196,72 +182,24 @@ Item --> 56
 
 Si sono dovute aggiungere alcune task fittizie che rappresentano dipendenze con le iterazioni successive. Per ogni dipedenza da esse si sfrutterà il _mocking_ per poter comunque procedere con l'implementazione.
 
-### Dipendenze
-
-Dalla tabella delle attività si può dedurre facilmente le dipendenze di personale, ossia l'impossibilità per la stessa persona di eseguire due task contemporaneamente.
-
-Successivamente sono state analizzate le dipendenze tecniche, ovvero la necessità tecnica di finire una certa task prima di poterne incominciare un'altra.
-
-### Diagramma delle dipendenze di personale
-
-```mermaid
-graph TD
-0[Start Node]
-End[End Node]
-
-%% Resource Dependencies
-%% Luca
-0 --> 1 --> 11 --> 18 --> 19 --> 27 --> End
-%% Silvia
-0 --> 7 --> 8 --> 9 --> 10 --> 20 --> 21 --> 22 --> 23 --> 24 --> 25 --> 26 --> 35 --> 36 --> 51 --> 52 --> 53 --> 61 --> 62 --> End
-%% Filippo P
-0 --> 5 --> 6 --> 28 --> 54 --> 55 --> End
-%% Anny
-0 --> 12 --> 13 --> 14 --> 29 --> 30 --> 31 --> 32 --> 37 --> 38 --> 39 --> 40 --> 41 --> 42 --> 56 --> 57 --> 58 --> End
-%% Filippo G
-0 --> 2 --> 3 --> 4 --> 15 --> 16 --> 17 --> 33 --> 34 --> 43 --> 44 --> 45 --> 46 --> 47 --> 48 --> 49 --> 50 --> 59 --> 60 --> End
-```
-
-### Diagramma delle dipendenze tecniche
-
-```mermaid
-graph LR
-Item(Item)
-Inventario(Inventario)
-Nemici(Nemici)
-Building(Building)
-
-%% Technical dependencies
-1 --> 3
-2 --> 30
-2 --> 47
-6 --> 9
-11 --> 13
-12 --> 47
-16 --> 23
-19 --> 15
-27 --> 25
-28 --> 25
-55 --> 52
-59 --> 51
-59 --> 56
-Nemici --> 31
-Inventario --> 45
-Inventario --> 21
-Building --> 49
-Item --> 30
-Item --> 37
-Item --> 51
-Item --> 56
-
-    classDef dashed stroke-dasharray: 5 5;
-    class Item,Nemici,Building,Inventario dashed;
-```
+Nota: le dipendenze contrassegnate nel diagramma non sono solo quelle organiche (i.e. la stessa persona non può fare due task contemporaneamente) ma anche di tipo tecnico.
 
 ## Percorso critico
 
-Il percorso critico è identificato dal percorso che, partendo dal nodo di inizio e arrivando alla fine, ogni nodo ha Slack = 0.
+Il percorso critico è identificato dal percorso che, partendo dal nodo di inizio e arrivando alla fine, ogni nodo ha slack = 0.
 
-Il percorso critico è il seguente:
+Il percorso critico è quello che, partendo dal nodo start, si sviluppa verso il nodo 7 e arriva infondo fino al nodo conclusivo.
 
-0 --> 7 --> 8 --> 9 --> 10 --> 20 --> 21 --> 22 --> 23 --> 24 --> 25 --> 26 --> 35 --> 36 --> 51 --> 52 --> 53 --> 61 --> 62 --> End
+## Scope Bank
+
+Giorni uomo totali: **146** giorni
+
+Volendo stare più conservativi si è deciso di avere una scope bank pari al **15%** dei giorni/uomo totali. Si deriva quindi che si tiene una scope bank pari a **22 giorni uomo**. Ciò comporta uno slittamento della durata totale dell'iterazione a **54 giorni**.
+
+## Conclusioni
+
+Le stime precedenti sono state fatte presupponendo una presenza costante di tutti i membri. Per ottenere un valore realistico si è deciso di aumentare del 50% le stime dei giorni/uomo, portando la durata totale dell'iterazione a **81 giorni**.
+
+Dalle sue conoscenze pregresse il team crede che un tempo del genere sia _accettabile_ per quella che ritiene essere una delle due iterazioni più complesse insieme all'iterazione riguardante le feature rogue-like.
+
+I giorni lavorativi disponibili in un anno sono circa **250**. Se si ipotizza di impiegare un tempo simile anche per l'iterazione successiva, si potrebbe arrivare a un totale di circa **170 giorni** di lavoro. Dalla terza iterazione ogni milestone sarà molto più leggera, si prevede infatti che questa possa essere completata in un tempo significativamente inferiore (probabilmente intorno ai **40-50 giorni**). Infine, l'ultimo mese lavorativo sarà dedicato alla rifinitura e al marketing. Così facendo, si dovrebbe restare in schedula e rispettare anche gli obiettivi di tempo del progetto.

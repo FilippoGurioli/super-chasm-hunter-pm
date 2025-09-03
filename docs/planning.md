@@ -17,6 +17,7 @@ La documentazione è elaborata attraverso _Joint Project Planning Sessions_ tra 
 - [Meeting 5](./appendices/meetings/meeting-5.md)
 - [Meeting 6](./appendices/meetings/meeting-6.md)
 - [Meeting 7](./appendices/meetings/meeting-7.md)
+- [Meeting 8](./appendices/meetings/meeting-8.md)
 
 ## Gestione del cambiamento
 
@@ -95,7 +96,7 @@ I documenti risultanti sono i seguenti:
 - [Project Network Diagram](./appendices/planning/PND.md)
 - [Gantt Chart](./appendices/planning/gantt.md)
 
-Durante le analisi e le stime si è anche accumulata una _scope bank_ pari ad una maggiorazione del 20%. Questa servirà in fase di esecuzione dell'iterazione per gestire eventuali imprevisti o cambiamenti di requisiti.
+Durante le analisi e le stime si è anche accumulata una _scope bank_ pari ad una maggiorazione del 15%. Questa servirà in fase di esecuzione dell'iterazione per gestire eventuali imprevisti o cambiamenti di requisiti.
 
 ## Project Proposal
 

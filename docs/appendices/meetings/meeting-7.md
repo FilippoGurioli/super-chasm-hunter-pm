@@ -304,14 +304,18 @@ task 2:
 
 ## :material-rocket-launch: **Azioni da fare**
 
-- Gestione delle risorse materiali e umane
-- Gestione del cashflow
+- Project Network Diagram (PND)
 
 ## :material-calendar: **Prossimo meeting**
 
-31/07/2025 | 2h
+06/08/2025 | 2h - si salta una settimana per redigere la WBS
 
 ## :material-account-group: **Partecipanti prossimo meeting**
 
-Filippo G
-Luca
+Tutto il team:
+
+- Luca
+- Filippo G
+- Filippo P
+- Anny
+- Silvia
