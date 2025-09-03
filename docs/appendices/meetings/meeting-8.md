@@ -27,7 +27,7 @@ Tutto il team:
 
 ## :material-note-text: **Note**
 
-Usare metodo delphi per stabilire le durate. Quindi fare PND su queste stime. Infine fare una scope bank.
+Usare metodo delphi per stabilire le durate. Quindi fare PND su queste stime e trovare percorso critico. Commentare percorso critico. Infine fare scope bank.
 
 ## :material-check: **Decisioni prese**
 
