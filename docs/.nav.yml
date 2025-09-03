@@ -31,8 +31,8 @@ nav:
     - Pianificazione:
       - Gestione del Rischio: appendices/planning/risk-management.md
       - Analisi Appalti: appendices/planning/procurement-analysis.md
-      - Work Breakdown Structure: appendices/planning/WBS.md
       - Gestione delle Risorse: appendices/planning/resource-management.md
+      - Work Breakdown Structure: appendices/planning/WBS.md
       - Project Network Diagram: appendices/planning/PND.md
       - Gantt Chart: appendices/planning/gantt.md
       - Project Proposal: appendices/planning/project-proposal.md
