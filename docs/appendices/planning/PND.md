@@ -197,6 +197,7 @@ Il percorso critico è quello che, partendo dal nodo start, si sviluppa verso il
 ## Scope Bank
 
 Giorni uomo totali: **146** giorni
+Giorni di calendario: **47** giorni
 
 Empiricamente i valori consigliati per la scope bank sono pari al 5-15% dei giorni/uomo totali. Volendo stare conservativi si è deciso di avere una scope bank pari al **15%** dei giorni/uomo totali. Si deriva quindi che si tiene una scope bank pari a **22 giorni uomo**. Ciò comporta uno slittamento della durata totale dell'iterazione a **54 giorni**.
 

@@ -20,6 +20,7 @@ La documentazione è elaborata attraverso _Joint Project Planning Sessions_ tra 
 - [Meeting 8](./appendices/meetings/meeting-8.md)
 - [Meeting 9](./appendices/meetings/meeting-9.md)
 - [Meeting 10](./appendices/meetings/meeting-10.md)
+- [Meeting 11](./appendices/meetings/meeting-11.md)
 
 ## Gestione del cambiamento
 
