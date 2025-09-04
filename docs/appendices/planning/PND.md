@@ -70,6 +70,10 @@
 ## Diagramma
 
 ```mermaid
+---
+config:
+    layout: elk
+---
 graph TD
 0[Start Node]
 1[1 - 2 gg]

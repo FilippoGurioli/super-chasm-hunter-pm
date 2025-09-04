@@ -3,7 +3,7 @@
 Questo documento elenca i rischi previsti durante la [fase di scoping](../scoping/risk-analysis.md) e cerca di trovare una soluzione concreta che aderisca alla strategia scelta durante lo scoping.
 
 | ID  | Descrizione rischio                                           | Tipologia     | Impatto | Mitigazione          |
-|-----|---------------------------------------------------------------|---------------|---------|----------------------|
+| --- | ------------------------------------------------------------- | ------------- | ------- | -------------------- |
 | R1  | Unity ha rilasci frequenti portando a veloce obsolescenza     | Tecnico       | Medio   | Mitigare             |
 | R2  | Stima dell'effort può essere sbagliata data l'inesperienza    | Manageriale   | Alto    | Piano di contingenza |
 | R3  | Budget limitato può portare all'inattuabilità del progetto    | Organizzativo | Alto    | Piano di contingenza |
@@ -106,7 +106,7 @@ Ad ogni modo, prima di ogni acquisto si fa un'attenta valutazione dell'asset da 
 
 L'aspetto organizzativo è centrale in questo progetto. È fondamentale evitare qualsiasi perdita di informazione a causa di comunicazioni informali/verbali mai trascritte. Al fine di avere informazioni su cui fare audit e anche per ricordare chiaramente quanto detto, è fondamentale che ogni comunicazione verbale e/o informale venga trascritta se di importanza significativa.
 
-- Si attueranno meeting settimanali in cui far emergere le possibili riflessioni che ogni membro può aver fatto. 
+- Si attueranno meeting settimanali in cui far emergere le possibili riflessioni che ogni membro può aver fatto.
 - Si incentiverà l'utilizzo di canali testuali anche per le informazioni più semplici.
 - Si redigerà ad ogni meeting la trascrizione di quanto detto (come già si sta facendo)
 
@@ -116,4 +116,4 @@ L'aspetto organizzativo è centrale in questo progetto. È fondamentale evitare 
 - **Impatto**: Medio
 - **Mitigazione**: Trasferire
 
-Lo sviluppo di intelligenze artificiali può portare via molto tempo allo sviluppo del progetto. Avendo già fatto esperienza della complessità di questo requisito, il team ha deciso preventivamente di affidarsi ad un asset di terze parti per il suo compimento. È stata fatta [un'analisi di mercato](./procurement-analysis) che ha portato all'acquisto di un asset che evitasse questo rischio. 
+Lo sviluppo di intelligenze artificiali può portare via molto tempo allo sviluppo del progetto. Avendo già fatto esperienza della complessità di questo requisito, il team ha deciso preventivamente di affidarsi ad un asset di terze parti per il suo compimento. È stata fatta [un'analisi di mercato](./procurement-analysis) che ha portato all'acquisto di un asset che evitasse questo rischio.

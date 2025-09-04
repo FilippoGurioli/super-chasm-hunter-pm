@@ -18,6 +18,8 @@ La documentazione è elaborata attraverso _Joint Project Planning Sessions_ tra 
 - [Meeting 6](./appendices/meetings/meeting-6.md)
 - [Meeting 7](./appendices/meetings/meeting-7.md)
 - [Meeting 8](./appendices/meetings/meeting-8.md)
+- [Meeting 9](./appendices/meetings/meeting-9.md)
+- [Meeting 10](./appendices/meetings/meeting-10.md)
 
 ## Gestione del cambiamento
 
@@ -34,6 +36,12 @@ La gestione del cambiamento è un aspetto cruciale del progetto, poiché consent
 In questa fase si è anche voluto indagare più a fondo sui [rischi](./appendices/scoping/risk-analysis.md) individuati durante lo scoping. Per ognuno di essi è stata effettuata un'analisi sulla strategia risolutiva, cercando di concretizzarla in attività specifiche.
 
 - [Gestione del rischio](./appendices/planning/risk-management.md)
+
+## Gestione Appalti
+
+Dalle analisi fatte durante la gestione del rischio è emersa la necessità di esternalizzare alcune componenti del progetto. In particolare, si è deciso di affidare a terzi la realizzazione delle AI dei nemici, in quanto rallenterebbe significativamente lo sviluppo.
+
+- [Gestione Appalti](./appendices/planning/procurement-analysis.md)
 
 ## Iterazioni
 
