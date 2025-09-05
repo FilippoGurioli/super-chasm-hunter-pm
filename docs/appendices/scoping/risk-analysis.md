@@ -1,7 +1,7 @@
 # Analisi dei rischi
 
 | ID  | Descrizione rischio                                           | Tipologia     | Impatto | Mitigazione          |
-|-----|---------------------------------------------------------------|---------------|---------|----------------------|
+| --- | ------------------------------------------------------------- | ------------- | ------- | -------------------- |
 | R1  | Unity ha rilasci frequenti portando a veloce obsolescenza     | Tecnico       | Medio   | Mitigare             |
 | R2  | Stima dell'effort può essere sbagliata data l'inesperienza    | Manageriale   | Alto    | Piano di contingenza |
 | R3  | Budget limitato può portare all'inattuabilità del progetto    | Organizzativo | Alto    | Piano di contingenza |

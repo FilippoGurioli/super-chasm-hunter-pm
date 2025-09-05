@@ -1,7 +1,3 @@
----
-title: Project Overview Statement
----
-
 # Project Overview Statement
 
 In questo POS viene riassunto quanto detto negli scoping meetings.
@@ -35,7 +31,7 @@ Creare un videogioco con caratteristiche rogue like, rpg e building che permetta
       1. **Tangibile:** Incremento del potenziale commerciale del gioco grazie all'attrattiva per nicchie di mercato specifiche
       2. **Intangibile:** Differenziazione del prodotto e riconoscibilità del brand del team
       3. **Intangibile:** Aumento del coinvolgimento e della soddisfazione del giocatore, che può riflettersi in maggiori vendite e recensioni positive
-   2. success criteria (IS): 
+   2. success criteria (IS):
       1. presenza di almeno 4 classi diverse giocabili
       2. la mappa delle zone varia di volta in volta
       3. presenza di oggetti piazzabili nel mondo virtuale del gioco
@@ -81,5 +77,5 @@ Analizzando RBS e POS il team è giunto alla conclusione che il Project Manageme
 
 La scelta è dovuta ai seguenti fattori:
 
-- Obiettivi noti e stabili, ma requisiti instabili o incompleti. 
+- Obiettivi noti e stabili, ma requisiti instabili o incompleti.
 - Necessità di apprendere mentre si implementa, approfondendo la conoscenza delle necessità degli stakeholders (prima di tutto quelle relative al team come stakeholder).

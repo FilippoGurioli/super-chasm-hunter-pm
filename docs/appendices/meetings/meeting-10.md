@@ -41,6 +41,8 @@ Risultato del tempo totale con scope bank: **54 giorni**.
 
 Risultato del tempo totale con scope bank e allentamento del 50%: **81 giorni**.
 
+Giorno di completamento stimanto con scope bank e allentamento: **01/05/2025**.
+
 Entrambi i dati sono in linea con le aspettative, quindi si decide di accettare la scope bank.
 
 ## :material-check: **Decisioni prese**
@@ -56,7 +58,7 @@ Entrambi i dati sono in linea con le aspettative, quindi si decide di accettare 
 
 ## :material-calendar: **Prossimo meeting**
 
-10/09/25 - si salta una settimana per redigere il Gantt Chart e procurement management
+10/09/25 - si salta una settimana per redigere il Gantt Chart
 
 ## :material-account-group: **Partecipanti prossimo meeting**
 

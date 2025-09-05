@@ -1,7 +1,3 @@
----
-title: Analisi finanziaria
----
-
 # Analisi finanziaria
 
 ## Business Model
