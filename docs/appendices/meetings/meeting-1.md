@@ -34,21 +34,26 @@ Nessuna
 
 ## :material-note-text: **Note**  
 
-**Nome del progetto**  
+### Nome del progetto
+
 Super Chasm Hunter
 
-**Definizione dell'opportunità**  
+### Definizione dell'opportunità
+
 si vuole creare un videogioco di tipo rogue like, rpg e building che permetta al team di accumulare esperienza nel settore, motivo per il quale tutto il prodotto si concentra sull'essere semplice e veloce nella produzione.
 
-**Stakeholders**  
+### Stakeholders
+
 videogiocatori  
 Steam  
 Il team
 
-**Goal**  
+### Goal
+
 Creare un videogioco con caratteristiche rogue like, rpg e building che permetta di far accumulare esperienza al team nel settore videoludico, lanciare il primo prodotto nel mercato e fornire una base economica minimale per l'apertura dell'azienda.
 
-**AS IS, TO BE, NICE TO HAVE**  
+### AS-IS, TO-BE, NICE-TO-HAVE
+
 AS IS
 
 - pletora di videogiochi già esistenti nel settore
@@ -68,10 +73,11 @@ NICE TO HAVE
 - durata di gioco almeno di 30 ore
 - arrivare con un bilancio in pari o leggermente positivo
 
-**Deliverable**  
+### Deliverable
+
 Prodotto software - videogioco
 
-**Conditions of Satisfaction**
+### Conditions of Satisfaction
 
 - videogiocatore: appassionamento alla trama del gioco
 - videogiocatore: appagamento dalle caratteristiche sandbox del gioco
@@ -79,9 +85,9 @@ Prodotto software - videogioco
 - team: acquisizione di competenze concrete e documentabili
 - Steam: rispetto delle policy di pubblicazione e qualità
 
-**Obiettivi**
+### Obiettivi
 
-1. pubblicazione del prodotto software entro l'inizio del nuovo anno (2026)
+1. pubblicazione del prodotto software entro l'inizio del nuovo anno (2027)
    1. business value:
       1. **Tangibile:** Accesso a una fonte di entrate dirette tramite le vendite su Steam
       2. **Intangibile:** Validazione della capacità del team di rispettare tempistiche e rilasciare un prodotto completo
@@ -92,7 +98,7 @@ Prodotto software - videogioco
       1. **Tangibile:** Incremento del potenziale commerciale del gioco grazie all'attrattiva per nicchie di mercato specifiche
       2. **Intangibile:** Differenziazione del prodotto e riconoscibilità del brand del team
       3. **Intangibile:** Aumento del coinvolgimento e della soddisfazione del giocatore, che può riflettersi in maggiori vendite e recensioni positive
-   2. success criteria (IS): 
+   2. success criteria (IS):
       1. presenza di almeno 4 classi diverse giocabili
       2. la mappa delle zone varia di volta in volta
       3. presenza di oggetti piazzabili nel mondo virtuale del gioco
@@ -112,14 +118,14 @@ Prodotto software - videogioco
       3. **Tangibile:** Accesso a promozioni su Steam e future campagne con leva su un primo successo
    2. success criteria(IR): avere un'entrata pari, almeno, a 3600€
 
-**Business Model**
+### Business Model
 
 Il deliverable sarà pubblicato sulla piattaforma [Steam](https://store.steampowered.com/?l=italian). Questa permette di pubblicizzare e far scaricare il prodotto ai videogiocatori interessati facendogli pagare un prezzo prestabilito. Di questa cifra, Steam trattiene il 30% e il restante viene destinato all'azienda produttrice.
 
 - Prezzo di lancio: 8.99€
 - possibilità di sconti periodici tramite le promozioni stagionali
 
-**Studio di fattibilità**
+### Studio di fattibilità
 
 - I costi fissi monetari derivanti dal progetto sono, fino all'apertura della partita IVA, pari a zero.
 - Dei costi possibili possono derivare dall'acquisto di strumenti sviluppati da terzi per velocizzare la produzione software. Questi non dovranno essere superiori a 500 euro.
@@ -127,7 +133,7 @@ Il deliverable sarà pubblicato sulla piattaforma [Steam](https://store.steampow
 
 Date quete premesse si ritiene il progetto *fattibile* per quanto riguarda il puro aspetto monetario. Bisogna comunque ricordare che Steam obbliga ad avere una partita IVA al momento della pubblicazione del prodotto, di conseguenza, sarà necessario nel prossimo progetto tenere conto anche dei costi fissi derivanti dall'apertura della p.IVA.
 
-**Assunzioni**
+### Assunzioni
 
 - Steam non incrementa in modo considerevole la trattenuta sui guadagni
 - Il team lavora in modo disomogeneo, c'è chi dedica più ore, chi meno, per il fatto che non è ancora fonte di reddito
@@ -148,8 +154,6 @@ Date quete premesse si ritiene il progetto *fattibile* per quanto riguarda il pu
 ## :material-rocket-launch: **Azioni da fare**  
 
 Completare lo scoping meeting per decidere il PMLC e procedere alla fase di planning
-
----
 
 ## :material-calendar: **Prossimo meeting**
 

@@ -20,7 +20,7 @@ Creare un videogioco con caratteristiche rogue like, rpg e building che permetta
 
 ## Obiettivi
 
-1. pubblicazione del prodotto software entro l'inizio del nuovo anno (2026)
+1. pubblicazione del prodotto software entro l'inizio del nuovo anno (2027)
    1. business value:
       1. **Tangibile:** Accesso a una fonte di entrate dirette tramite le vendite su Steam
       2. **Intangibile:** Validazione della capacità del team di rispettare tempistiche e rilasciare un prodotto completo

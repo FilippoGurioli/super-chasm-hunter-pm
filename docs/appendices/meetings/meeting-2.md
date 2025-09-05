@@ -70,7 +70,7 @@ Meeting 1
 
 Creare un videogioco con caratteristiche rogue like, rpg e building che permetta di far accumulare esperienza al team nel settore videoludico, lanciare il primo prodotto nel mercato e fornire una base economica minimale per l'apertura dell'azienda.
 
-1. pubblicazione del prodotto software entro l'inizio del nuovo anno (2026)
+1. pubblicazione del prodotto software entro l'inizio del nuovo anno (2027)
    1. eseguire il planning in modo tale da stare in schedule
    2. monitorare l'execution in modo da apportare modifiche per rimanere in schedule
 2. caratteristiche action rpg, rogue-like e building del videogioco

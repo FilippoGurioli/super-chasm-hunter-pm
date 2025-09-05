@@ -3,7 +3,7 @@
 ```mermaid
 gantt
     dateFormat DD-MM-YYYY
-    0. Kick-off :t0, 01-01-2025, 0d
+    0. Kick-off :t0, 01-01-2026, 0d
     1. asset vita protagonista :t1, after t0, 2d
     2. logica vita protagonista :t2, after t0, 4d
     5. animazione flinching :t5, after t0, 3d
