@@ -208,3 +208,5 @@ Le stime precedenti sono state fatte presupponendo una presenza costante di tutt
 Dalle sue conoscenze pregresse il team crede che un tempo del genere sia _accettabile_ per quella che ritiene essere una delle due iterazioni più complesse insieme all'iterazione riguardante le feature rogue-like.
 
 I giorni lavorativi disponibili in un anno sono circa **250**. Se si ipotizza di impiegare un tempo simile anche per l'iterazione successiva, si potrebbe arrivare a un totale di circa **170 giorni** di lavoro. Dalla terza iterazione ogni milestone sarà molto più leggera, si prevede infatti che questa possa essere completata in un tempo significativamente inferiore (probabilmente intorno ai **40-50 giorni**). Infine, l'ultimo mese lavorativo sarà dedicato alla rifinitura e al marketing. Così facendo, si dovrebbe restare in schedula e rispettare anche gli obiettivi di tempo del progetto.
+
+Data stimata di completamento dell'iterazione: **01/05/2026**.

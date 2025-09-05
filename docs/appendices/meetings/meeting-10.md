@@ -41,7 +41,7 @@ Risultato del tempo totale con scope bank: **54 giorni**.
 
 Risultato del tempo totale con scope bank e allentamento del 50%: **81 giorni**.
 
-Giorno di completamento stimanto con scope bank e allentamento: **01/05/2025**.
+Giorno di completamento stimanto con scope bank e allentamento: **01/05/2026**.
 
 Entrambi i dati sono in linea con le aspettative, quindi si decide di accettare la scope bank.
 

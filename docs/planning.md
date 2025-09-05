@@ -119,7 +119,7 @@ Alla fine della pianificazione è stato redatto il [Project Proposal](./appendic
 - Time and Cost Summary
 - Appendices
 
-Questo è stato sottoposto nel [Joint Project Planning Session finale](./appendices/meetings/meeting-5.md) al PM e al CEO per la conferma o aggiornamento.
+Questo è stato sottoposto nel [Joint Project Planning Session finale](./appendices/meetings/meeting-12.md) al PM e al CEO per la conferma o aggiornamento.
 
 ## Lancio
 
