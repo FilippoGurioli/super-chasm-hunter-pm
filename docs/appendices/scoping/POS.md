@@ -46,10 +46,10 @@ Creare un videogioco con caratteristiche rogue like, rpg e building che permetta
       3. dev-skill specifiche dei tool di sviluppo quali Unity e Blender (conoscere a fondo le funzionalità principali e essere a conoscenza di quelle più avanzate)
 4. arrivare ad un guadagno minimo che saldi le spese annue della partita IVA
    1. business value:
-      1. **Tangibile:** Copertura dei costi fissi di esercizio (almeno 3600€ di ricavi), garantendo la sostenibilità economica di base
+      1. **Tangibile:** Copertura dei costi fissi di esercizio (almeno 6300€ di ricavi), garantendo la sostenibilità economica di base
       2. **Intangibile:** Prova di un interesse reale del mercato per il prodotto del team
       3. **Tangibile:** Accesso a promozioni su Steam e future campagne con leva su un primo successo
-   2. success criteria(IR): avere un'entrata pari, almeno, a 3600€
+   2. success criteria(IR): avere un'entrata pari, almeno, a 6300€
 
 ## Assunzioni
 

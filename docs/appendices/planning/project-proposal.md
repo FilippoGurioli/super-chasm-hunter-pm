@@ -1,6 +1,6 @@
 # Project Proposal – Super Chasm Hunter
 
-## Executive Summary
+## Sintesi
 
 Il progetto **Super Chasm Hunter** mira allo sviluppo di un videogioco indie con caratteristiche **rogue-like, RPG e building**.  
 L’obiettivo principale è duplice:  
@@ -11,8 +11,6 @@ L’obiettivo principale è duplice:
 Il progetto sarà sviluppato con approccio **iterativo**, che consente di apprendere e adattare i requisiti lungo il percorso.  
 Il valore del progetto non è solo economico, ma anche formativo e reputazionale: validare le competenze del team, costruire un network e posizionarsi sul mercato.
 
----
-
 ## Background
 
 Il team è composto da giovani sviluppatori appassionati, con esperienza accademica e personale in Unity e Blender.  
@@ -21,12 +19,10 @@ Al momento non dispone di un prodotto pubblicato, pertanto **Super Chasm Hunter*
 Motivazioni principali:  
 
 - Creare un videogioco che sia **producibile in tempi relativamente brevi**.  
-- Avviare un modello di business sostenibile, coprendo almeno i costi fissi di apertura di una partita IVA (circa 3600€/anno).  
+- Avviare un modello di business sostenibile, coprendo almeno i costi fissi di apertura di una partita IVA (circa 6300€/anno).  
 - Acquisire competenze operative nel ciclo di vita completo di un videogioco: sviluppo, test, marketing e pubblicazione.
 
----
-
-## Objectives
+## Obiettivi
 
 1. **Pubblicazione entro inizio 2027**  
    - **Tangibile**: entrate tramite Steam.  
@@ -42,26 +38,22 @@ Motivazioni principali:
    - **Success Criteria**: stabilire rapporti con almeno 3 altre aziende, realizzare 3 campagne marketing diverse.
 
 4. **Sostenibilità economica minima**  
-   - **Tangibile**: copertura dei costi annui (≥ 3600€).  
+   - **Tangibile**: copertura dei costi annui (≥ 6300€).  
    - **Intangibile**: prova di interesse del mercato.  
 
----
-
-## Overview of the Approach to be Taken
+## Approccio al progetto
 
 - **Metodologia**: Project Management Life Cycle di tipo **Iterativo**.  
 - **Motivazione**: obiettivi chiari, requisiti instabili → è necessario apprendere durante lo sviluppo.  
-- **Strumenti**: Unity (game engine), Blender (grafica 3D/2D), asset di terze parti (per AI, animazioni, ecc.).  
-- **Rischi e mitigazioni**:  
-  - Rischi tecnici (es. aggiornamenti Unity, AI complesse) → mitigati tramite uso di versioni LTS e asset collaudati:contentReference[oaicite:3]{index=3}.  
+- **Strumenti**: Unity (game engine), Blender (grafica 3D/2D), asset di terze parti (per AI, ecc.).  
+- **Rischi e mitigazioni**:
+  - Rischi tecnici (es. aggiornamenti Unity, AI complesse) → mitigati tramite uso di versioni LTS e asset collaudati.
   - Rischi organizzativi (presenza disomogenea del team) → gestiti con pianificazione flessibile e comunicazioni strutturate.  
-  - Rischi esterni (policy Steam) → accettati come inevitabili.  
+  - Rischi esterni (policy Steam) → accettati come inevitabili.
 
----
+## Piano di lavoro
 
-## Detailed Statement of Work
-
-Il lavoro sarà suddiviso in iterazioni principali:  
+Il lavoro sarà suddiviso in 5 iterazioni principali:  
 
 1. **Core Mechanics**  
    - Implementazione vita, mana, movimento e status effect del protagonista.  
@@ -78,32 +70,32 @@ Il lavoro sarà suddiviso in iterazioni principali:
    - Gestione salvataggi (vita, mana, inventario, oggetti piazzati).  
    - Dialoghi, negozi, monete e sistema di progressione.  
 
-4. **Rifinitura e Marketing**  
-   - Ottimizzazione grafica e animazioni.  
-   - Campagne promozionali (social, early access, community).  
-   - Pubblicazione su Steam.  
+4. **Rifinitura**  
+   - Ottimizzazione grafica e animazioni.
+   - Bilanciamento del gameplay e correzione bug.
+   - Test approfonditi e feedback loop.
 
-Tutte le attività sono dettagliate nel **Project Network Diagram (PND)** con stime di durata, percorso critico e slack:contentReference[oaicite:4]{index=4}.
+5. **Marketing**
+   - Creazione di trailer, pagine social e campagne promozionali.  
+   - Preparazione per la pubblicazione su Steam.
 
----
+Tutte le attività sono dettagliate nel **Project Network Diagram (PND)** con stime di durata, percorso critico e slack.
 
-## Time and Cost Summary
+## Stime di costo e durata
 
-- **Durata stimata**:  
-  - Prima iterazione ≈ **81 giorni di calendario** (con scope bank inclusa):contentReference[oaicite:5]{index=5}.  
-  - Iterazioni successive ≈ 170 giorni complessivi.  
-  - Iterazioni finali più leggere (40–50 giorni).  
-  - Tempo totale stimato: entro **01/05/2026** per la fase più complessa.  
+- **Durata stimata**:
+  - Prima iterazione ≈ **81 giorni di calendario** (con scope bank inclusa).  
+  - Iterazioni successive ≈ 170 giorni complessivi.
+  - Tempo totale stimato: entro **01/05/2026** per la prima fase.
 
 - **Scope Bank**: 15% dei giorni/uomo totali (≈ 22 giorni) per assorbire incertezze.  
 
 - **Costi principali**:  
-  - Partita IVA annuale: 3600€  
+  - Partita IVA annuale: 6300€  
   - Asset da acquistare (AI, animazioni, grafica): ≈ 500–1000€  
-  - Marketing: ≈ 500–1000€  
   - Totale stimato: **5000–6000€**  
 
-Obiettivo minimo: copertura dei costi annui (≥ 3600€) tramite vendite su Steam.  
+Obiettivo minimo: copertura dei costi annui (≥ 6300€) tramite vendite su Steam.  
 
 ---
 

@@ -15,14 +15,15 @@ Per valutare la sostenibilità economica del progetto è stato predisposto un [f
 
 1. **Costi fissi**: 3.600€ (2.800€ di apertura partita IVA + 800€ di commercialista).  
 2. **Costi variabili**: circa 500€, legati all’acquisto di strumenti o asset di terze parti.  
-3. **Stima prudente delle copie vendute**: circa 700 unità.  
+3. **Stima prudente delle copie vendute**: circa 700 unità.
 
-Dal grafico elaborato si osserva che, per coprire i costi complessivi (6.800€), il prezzo minimo sostenibile sarebbe intorno ai **6,99€**, considerando il valore più basso delle vendite attese per il genere di riferimento (1000 copie).  
+Si è stimato che per poter produrre 4100€ (3600 + 500 di costi) sarà necessario un fatturato di circa 6300€, considerando la commissione di Steam e la tassazione vigente.
+
+Dal grafico elaborato si osserva che, per coprire i costi complessivi (6.300€), il prezzo minimo sostenibile sarebbe intorno ai **6,99€**, considerando il valore più basso delle vendite attese per il genere di riferimento (1000 copie).
 
 Tuttavia, il team ha scelto un prezzo di **8,99€**, che rimane comunque nella fascia bassa del mercato, in quanto:  
 
 - riduce il numero di copie necessarie per raggiungere il pareggio (circa 700);  
-- garantisce un margine positivo (circa 657€), volto alla copertura dei costi variabili;  
 - non compromette l’accessibilità del titolo ai potenziali acquirenti.  
 
 ```mermaid
