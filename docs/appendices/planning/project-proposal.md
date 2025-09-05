@@ -1,4 +1,4 @@
-# Project Proposal – Super Chasm Hunter
+# Iteration Proposal – Super Chasm Hunter
 
 ## Sintesi
 
@@ -91,19 +91,17 @@ Tutte le attività sono dettagliate nel **Project Network Diagram (PND)** con st
 - **Scope Bank**: 15% dei giorni/uomo totali (≈ 22 giorni) per assorbire incertezze.  
 
 - **Costi principali**:  
-  - Partita IVA annuale: 6300€  
-  - Asset da acquistare (AI, animazioni, grafica): ≈ 500–1000€  
-  - Totale stimato: **5000–6000€**  
+  - Partita IVA annuale: 3600€  
+  - Asset da acquistare (AI, animazioni, grafica): ≈ 500€
+  - Totale stimato: **4100€** netto, **6300€** lordo.
 
 Obiettivo minimo: copertura dei costi annui (≥ 6300€) tramite vendite su Steam.  
 
----
+## Appendici
 
-## Appendices
-
-- **POS (Project Overview Statement)**:contentReference[oaicite:6]{index=6}  
-- **Risk Management** con elenco dettagliato dei rischi e strategie:contentReference[oaicite:7]{index=7}  
-- **PND (Project Network Diagram)** con attività, percorso critico, scope bank e Gantt:contentReference[oaicite:8]{index=8}  
-- **Analisi finanziaria** (meeting di scoping, allegata nel progetto originale)  
-
----
+- [**POS (Project Overview Statement)**](../scoping/POS.md)
+- [**Gestione del rischio**](risk-management.md) con elenco dettagliato dei rischi e strategie
+- [**PND (Project Network Diagram)**](PND.md) con attività, percorso critico, scope bank e Gantt
+- [**WBS (Work Breakdown Structure)**](WBS.md)
+- [**Gantt Chart**](gantt.md)
+- [**Analisi finanziaria**](../scoping/financial-analysis.md)

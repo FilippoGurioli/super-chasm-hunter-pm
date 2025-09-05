@@ -19,11 +19,16 @@ Joint Project Planning Session
 
 ## :material-note-text: **Note**
 
-TODO
+- I costi/benefici sono ritenuti sufficienti? Si, il progetto è fattibile a livello economico ed i benefici sono significativi (apertura ufficiale dell'azienda).
+- I rischi di fallimento sono troppo alti? No, i rischi sono stati valutati e gestiti adeguatamente.
+- I costi totali previsti per il progetto sono superiori ai fondi disponibili? No, i costi sono copribili al giorno 0 direttamente dai fondatori.
+- Ci sono altri progetti che competono per ottenere le stesse risorse? No, primo e unico progetto dell'azienda.
+
+Dato quanto appena detto si approva la proposta di progetto.
 
 ## :material-check: **Decisioni prese**
 
-- Approvazione Project Proposal
+- Approvazione Proposta di progetto
 
 ## :material-rocket-launch: **Azioni da fare**
 
@@ -31,9 +36,8 @@ TODO
 
 ## :material-calendar: **Prossimo meeting**
 
-24/09/25
+01/10/25
 
 ## :material-account-group: **Partecipanti prossimo meeting**
 
-Luca
-Filippo G
+Tutto il team
