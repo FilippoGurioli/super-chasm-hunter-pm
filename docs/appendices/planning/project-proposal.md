@@ -88,7 +88,7 @@ Tutte le attività sono dettagliate nel **Project Network Diagram (PND)** con st
   - Iterazioni successive ≈ 170 giorni complessivi.
   - Tempo totale stimato: entro **01/05/2026** per la prima fase.
 
-- **Scope Bank**: 15% dei giorni/uomo totali (≈ 22 giorni) per assorbire incertezze.  
+- **Scope Bank**: 15% dei giorni/uomo totali (≈ 22 giorni) per imprevisti, cambi di requisiti o aggiunte.
 
 - **Costi principali**:  
   - Partita IVA annuale: 3600€  

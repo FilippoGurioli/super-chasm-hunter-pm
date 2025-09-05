@@ -106,7 +106,7 @@ I documenti risultanti sono i seguenti:
 - [Project Network Diagram](./appendices/planning/PND.md)
 - [Gantt Chart](./appendices/planning/gantt.md)
 
-Durante le analisi e le stime si è anche accumulata una _scope bank_ pari ad una maggiorazione del 15%. Questa servirà in fase di esecuzione dell'iterazione per gestire eventuali imprevisti o cambiamenti di requisiti.
+Durante le analisi e le stime si è anche accumulata una _scope bank_ pari ad una maggiorazione del 15%. Questa servirà in fase di esecuzione dell'iterazione per gestire eventuali imprevisti o aggiunte/cambiamenti di requisiti.
 
 ## Project Proposal
 
