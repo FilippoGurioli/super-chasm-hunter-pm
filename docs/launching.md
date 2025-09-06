@@ -61,18 +61,51 @@ Anche la risoluzione di conflitti ha più facce a seconda della situazione in cu
 
 Una volta aver identificato il problema le due parti cedono entrambe parte della ragione al fine di evitare la perdita di troppo tempo. Si adotta una soluzione temporanea al problema fin tanto che non se ne trova una definitiva.
 
+### Brainstorming
+
+Le sessioni di brainstorming verranno innescate principalmente per due motivi:
+
+- ricerca di soluzioni efficaci ai problemi
+- creazione di idee nuove per l'implementazione
+
+Queste riunioni verranno fatte su richiesta e avranno come scopo principale ascoltare ogni voce. Solo in un secondo momento queste idee verranno analizzate e si estrapolerà la migliore. Si incentiverà l'apertura mentale e si sopprimerà ogni pregiudizio al fine di lasciare quanto più spazio possibile alla creatività.
+
+### Team meetings
+
+I team meetings saranno necessariamente molto frequenti al fine di poter avere un monitoraggio pervasivo dal quale poter fare audit e soddisfare l'obiettivo 3 del progetto. Di conseguenza, ogni meeting avrà una durata corta per evitare overhead insostenibili durante l'esecuzione del progetto.
+
+Sono stati definiti 4 tipologie diverse di meeting:
+
+| Nome               | Frequenza                                 | Durata    | Obiettivo                                                           |
+| ------------------ | ----------------------------------------- | --------- | ------------------------------------------------------------------- |
+| Daily status       | 1 al giorno                               | 10 min    | Aggiornare il team su quanto prodotto il giorno prima               |
+| Problem resolution | almeno 1 per ogni problema nell'issue log | variabile | Risolvere i problemi in modo collaborativo                          |
+| Status review      | 1 ogni 2 settimane                        | 1 ora     | Rivedere i progressi dell'iterazione e pianificare il futuro        |
+| Milestone          | al completamento della milestone          | 2 ore     | Rivedere i risultati raggiunti e pianificare la prossima iterazione |
+
+Si noti che sotto i problem resolution meetings ci sono anche tutti i meeting volti al brainstorming, al conflict resolution e al decision making.
+
+Ogni meeting verrà sempre trascritto utilizzando il [meeting template](./appendices/meeting-template.md). In caso di problemi o di loro risoluzioni si aggiornerà l'issue log, mentre ad ogni project review si aggiorneranno gli strumenti di monitoraggio oltre che documentazione gestionale (e.g. WBS, PND, Gantt etc.).
+
 ## Tools
 
-- Unity
-- Visual Studio Code e Rider
-- Git
-- GitHub Stack
-  - GitHub Projects
-  - GitHub Issues
-  - GitHub Actions
-- Discord
+Di seguito si elencano gli strumenti che il team adotterà lungo tutta l'esecuzione del progetto.
+
+- **Unity**: game engine, volto allo sviluppo del gioco;
+- **Visual Studio Code e Rider**: i due IDE più affermati per lo sviluppo, entrambi integrabili con Unity;
+- **Git**: sistema di versionamento standard de facto, permette di sfruttare strategie di branching (e.g. GitFlow) e mantenere pulizia nella codebase;
+- **GitHub Stack**: insieme di feature che GitHub fornisce ai suoi clienti
+  - **GitHub Repositories**: cloud affidabile in cui storicizzare il codice, utile per la condivisione;
+  - **GitHub Projects**: strumento a sostegno di ogni repository, permette di tenere traccia dello stato di avanzamento delle task;
+  - **GitHub Issues**: strumento a sostegno di ogni repository, permette di tenere traccia di tutti i problemi emersi nel progetto;
+  - **GitHub Actions**: strumento a sostegno di ogni repository, permette di lanciare test e fare deploy in modo da avere garanzia di qualità in modo automatico;
+  - **GitHub Pages**: strumento a sostegno di ogni repository, permette di pubblicare una pagina su cui scrivere tutta la documentazione relativa al progetto;
+- **Discord**: software performante su cui effettuare chiamate da remoto, fornito di strumenti aggiuntivi per la condivisione di idee, schemi e prototipi.
 
 ## Work Package
 
-- sui task nel critical path
-- scriverlo davvero o dire solo di volerlo fare?
+Al fine di tenere monitorato il critical path, si è deciso di redigere un work package con le attività che lo compongono. Questo dovrebbe permettere maggior controllo su ogni sua parte, avendo la garanzia di prendere il prima possibile problemi e ritardi. Ogni item nel work package deve avere un titolo, una descrizione, l'assegnatario, la data di inizio, di fine prevista e di fine effettiva e note.
+
+## Esecuzione
+
+Il diretto successore del lancio è l'esecuzione. Qui si metteranno in atto tutte le strategie prese in precedenza. Si sfrutterà tutta la documentazione prodotta per stare in schedula, rimanere nel focus e raggiungere la milestone nei tempi previsti. Durante tutta questa fase si presterà molta attenzione nel continuare a redigere i documenti di monitoraggio al fine di poter fare audit a fine progetto e ottenere preziose informazioni su come migliorare.
