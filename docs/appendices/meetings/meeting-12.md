@@ -36,7 +36,7 @@ Dato quanto appena detto si approva la proposta di progetto.
 
 ## :material-calendar: **Prossimo meeting**
 
-01/10/25
+01/10/2025 | 1h - Kick-off Meeting
 
 ## :material-account-group: **Partecipanti prossimo meeting**
 
