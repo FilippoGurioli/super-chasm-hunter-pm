@@ -11,7 +11,7 @@ Infine, al momento della pubblicazione sarà obbligatoria l’apertura di una pa
 
 ## Studio di fattibilità
 
-Per valutare la sostenibilità economica del progetto è stato predisposto un [foglio di calcolo](https://docs.google.com/spreadsheets/d/1B05SoctmiqgcXIOkPyeojWCbAbP05F1OtZ33VDwz1cA/edit?usp=sharing) che tiene conto di:
+Per valutare la sostenibilità economica del progetto è stato predisposto un [foglio di calcolo](https://docs.google.com/spreadsheets/d/1B05SoctmiqgcXIOkPyeojWCbAbP05F1OtZ33VDwz1cA/edit?usp=sharing) che tenga conto di:
 
 1. **Costi fissi**: 3.600€ (2.800€ di apertura partita IVA + 800€ di commercialista).  
 2. **Costi variabili**: circa 500€, legati all’acquisto di strumenti o asset di terze parti.  

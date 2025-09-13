@@ -2,6 +2,18 @@
 
 Creare un videogioco con caratteristiche rogue like, rpg e building che permetta di far accumulare esperienza al team nel settore videoludico, lanciare il primo prodotto nel mercato e fornire una base economica minimale per l'apertura dell'azienda.
 
+Ogni requisito ha associato 2 valori che ne rappresentano le caratteristiche principali, nella fattispecie:
+
+- il primo valore indica la chiarezza del requisito:
+  - V (verde): requisito chiaro e ben definito
+  - GI (giallo): requisito abbastanza chiaro ma con qualche ambiguità
+  - R (rosso): requisito poco chiaro e con molte ambiguità
+- il secondo valore indica la tipologia di requisito:
+  - F (functional): requisito funzionale
+  - C (constraint): vincolo di progetto
+  - GL (global): requisito globale
+  - NF (non-functional): requisito non funzionale
+
 1. pubblicazione del prodotto software entro l'inizio del nuovo anno (2027) \[GI | C\]
    1. eseguire il planning in modo tale da stare in schedule \[GI | C\]
    2. monitorare l'execution in modo da apportare modifiche per rimanere in schedule \[GI | C\]

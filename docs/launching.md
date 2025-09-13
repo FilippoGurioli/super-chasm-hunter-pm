@@ -47,7 +47,7 @@ Ogni altra decisione è stata presa e verrà presa tramite appositi meeting in c
 
 ### Conflict resolution
 
-Anche la risoluzione di conflitti ha più facce a seconda della situazione in cui ci si trova. Per conflitti riguardanti temi fondati (e.g. game design, distribuzione del carico di lavoro etc.) si adotta la strategia _collaborativa_. Per quanto riguarda invece problemi minori e urgenti (e.g. aspetti estetici, non legati al core del progetto) si decide di utilizzare la strategia del _compromesso_.
+Anche la risoluzione di conflitti ha più facce a seconda della situazione in cui ci si trova. Per conflitti riguardanti temi fondanti (e.g. game design, distribuzione del carico di lavoro etc.) si adotta la strategia _collaborativa_. Per quanto riguarda invece problemi minori e urgenti (e.g. aspetti estetici, non legati al core del progetto) si decide di utilizzare la strategia del _compromesso_.
 
 #### Risoluzione collaborativa
 

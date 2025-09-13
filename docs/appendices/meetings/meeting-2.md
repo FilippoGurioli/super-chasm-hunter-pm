@@ -100,7 +100,7 @@ Creare un videogioco con caratteristiche rogue like, rpg e building che permetta
 #### Weaknesses (Debolezze)
 
 - **Team non full-time**: presenza non costante a causa di altri impegni (università/lavoro).
-- **Budget limitato**: 6.300€ totali tra costi fissi e variabili, con margine di rischio se le vendite non raggiungono le aspettative.
+- **Budget limitato**: 4.100€ totali tra costi fissi e variabili, con margine di rischio se le vendite non raggiungono le aspettative.
 - **Esperienza limitata del team**: possibilità di sottostimare effort e tempi di sviluppo.
 - **Dipendenza da strumenti e asset esterni**: rischio di rallentamenti o obsolescenza.
 

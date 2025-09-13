@@ -8,13 +8,13 @@ Il progetto consisterà di una macro parte che concerne lo sviluppo del prodotto
 
 ## Il Team
 
-| Nome | Ruoli |
-|------|-------|
-| Luca | CEO, Game Designer, Sound designer, Narrative Designer, marketing |
-| Filippo G | CTO, PM, Software Engineer |
-| Silvia | CFO, Software engineer, marketing |
-| Filippo P | Art Director, 3D Artist, 2D Artist |
-| Anny | Software engineer |
+| Nome      | Ruoli                                                             |
+| --------- | ----------------------------------------------------------------- |
+| Luca      | CEO, Game Designer, Sound designer, Narrative Designer, marketing |
+| Filippo G | CTO, PM, Software Engineer                                        |
+| Silvia    | CFO, Software engineer, marketing                                 |
+| Filippo P | Art Director, 3D Artist, 2D Artist                                |
+| Anny      | Software engineer                                                 |
 
 ## Analisi del contesto
 
@@ -24,7 +24,7 @@ Sin dall'inizio è importante analizzare il contesto in cui il progetto si inser
 
 Nel settore esistono già una pletora di titoli che verranno analizzati per poterne assimilare i concetti vincenti e, nel contempo, sapere quali caratteristiche valorizzare per garantire unicità al progetto.
 
-L'azienda non ha ancora prodotto nessun titolo quindi, come tale, non può godere di una community consolidata o di esperienza pregressa accumulata. Nonostante ciò tutto il team ha già fatto esperienze significative con le tecnologie di sviluppo videoludico. Inoltre, i fondatori sono tutti appassionati di videogiochi garantendo una buona conoscenza del mercato e delle caratteristiche principali dei prodotti di qualità.
+L'azienda non ha ancora prodotto nessun titolo quindi, come tale, non può godere di una community consolidata o di esperienza pregressa accumulata. Nonostante ciò, tutto il team ha già fatto esperienze significative con le tecnologie di sviluppo videoludico. Inoltre, i fondatori sono tutti appassionati di videogiochi garantendo una buona conoscenza del mercato e delle caratteristiche principali dei prodotti di qualità.
 
 I fondatori hanno tutti già un altro lavoro, motivo per il quale bisognerà fare scelte strategiche riguardo alla gestione del tempo e delle risorse.
 
@@ -49,7 +49,7 @@ N.B: si assume che, con la remunerazione minima sostenibile, ogni membro del tea
 
 ## Programma
 
-Questo progetto fa parte di una visione a lungo periodo dell'azienda. Il programma dell'azienda ha come unico obiettivo: rendere una passione dei fondatori un'attività professionale. In questo programma, il primo progetto, ovvero SCH (Super Chasm Hunter), non deve essere necessariamente redditizio. Esso deve fungere da **punto di partenza** per futuri sviluppi e opportunità. Questo è il motivo per il quale si mira alla semplicità piuttosto che al guadagno. Il programma si concretizza nello standardizzare processi aziendali di alta qualità, ufficializzare il **modus operandi** aziendale in modo da strutturare l'azienda a scalare e affrontare sfide future.
+Questo progetto fa parte di una visione a lungo periodo dell'azienda. Il programma dell'azienda ha un unico obiettivo: rendere una passione dei fondatori un'attività professionale. In questo programma, il primo progetto, ovvero SCH (Super Chasm Hunter), non deve essere necessariamente redditizio. Esso deve fungere da **punto di partenza** per futuri sviluppi e opportunità. Questo è il motivo per il quale si mira alla semplicità piuttosto che al guadagno. Il programma si concretizza nello standardizzare processi aziendali di alta qualità, ufficializzare il **modus operandi** aziendale in modo da strutturare l'azienda a scalare e affrontare sfide future.
 
 ## Scoping
 

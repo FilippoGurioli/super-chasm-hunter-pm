@@ -1,4 +1,4 @@
-# Monitoring
+# Monitoraggio
 
 Qui si raccolgono tutte le strategie adottate dal team al fine di monitorare e controllare l'andamento del progetto. Come già specificato più volte, il team ha come obiettivo (tra gli altri) formarsi nel campo del game development e della game industry in generale. Per perseguire tale obiettivo, il team ha deciso di adottare un monitoraggio pervasivo e continuo, in modo da poter identificare chiaramente le proprie skill, le proprie lacune e le aree di miglioramento. Si crede fermamente che l'unico modo per poter migliorare sia tramite dati oggettivi e misurabili, da cui fare analisi e trarre conclusioni.
 
