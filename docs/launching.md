@@ -1,4 +1,4 @@
-# Launching
+# Lancio
 
 Una volta definito il piano operativo derivante dagli obiettivi del progetto, è il momento di lanciare l'iterazione. In questa fase si definiscono le regole operative del team, si attua l'implementazione delle task, monitorando il progresso e risolvendo i problemi che si presentano.
 
