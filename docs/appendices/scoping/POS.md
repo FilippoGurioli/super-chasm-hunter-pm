@@ -59,7 +59,7 @@ Creare un videogioco con caratteristiche rogue like, rpg e building che permetta
 
 ## Rischi
 
-L'analisi dei rischi si può è stata eseguita in [questo file](./risk-analysis.md).
+L'analisi dei rischi è stata eseguita in [questo file](./risk-analysis.md).
 
 ## Ostacoli
 
@@ -79,3 +79,4 @@ La scelta è dovuta ai seguenti fattori:
 
 - Obiettivi noti e stabili, ma requisiti instabili o incompleti.
 - Necessità di apprendere mentre si implementa, approfondendo la conoscenza delle necessità degli stakeholders (prima di tutto quelle relative al team come stakeholder).
+
